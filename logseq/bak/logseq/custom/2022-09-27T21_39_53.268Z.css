@@ -1,0 +1,336 @@
+a.tag[data-ref="deformasi"] {
+  /* Yellow */
+  --label-r: 255;
+  --label-g: 204;
+  --label-b: 0;
+  --label-h: 48;
+  --label-s: 100;
+  --label-l: 50;
+
+  --lightness-threshold: 0.6;
+  --background-alpha: 0.18;
+  --border-alpha: 0.3;
+  --perceived-lightness: calc(
+    (
+        (var(--label-r) * 0.2126) + (var(--label-g) * 0.7152) +
+          (var(--label-b) * 0.0722)
+      ) / 255
+  );
+  --lightness-switch: max(
+    0,
+    min(
+      calc((var(--perceived-lightness) - var(--lightness-threshold)) * -1000),
+      1
+    )
+  );
+  --lighten-by: calc(
+    ((var(--lightness-threshold) - var(--perceived-lightness)) * 100) *
+      var(--lightness-switch)
+  );
+
+  color: hsl(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%)
+  );
+  background: rgba(
+    var(--label-r),
+    var(--label-g),
+    var(--label-b),
+    var(--background-alpha)
+  );
+  border-color: hsla(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%),
+    var(--border-alpha)
+  );
+  display: inline-block;
+  padding: 0 7px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  white-space: nowrap;
+  border: 1px solid;
+  border-radius: 2em;
+}
+a.tag[data-ref="tensile"] {
+  /* orange */
+  --label-r: 250;
+  --label-g: 128;
+  --label-b: 47;
+  --label-h: 23;
+  --label-s: 95;
+  --label-l: 58;
+
+  --lightness-threshold: 0.6;
+  --background-alpha: 0.18;
+  --border-alpha: 0.3;
+  --perceived-lightness: calc(
+    (
+        (var(--label-r) * 0.2126) + (var(--label-g) * 0.7152) +
+          (var(--label-b) * 0.0722)
+      ) / 255
+  );
+  --lightness-switch: max(
+    0,
+    min(
+      calc((var(--perceived-lightness) - var(--lightness-threshold)) * -1000),
+      1
+    )
+  );
+  --lighten-by: calc(
+    ((var(--lightness-threshold) - var(--perceived-lightness)) * 100) *
+      var(--lightness-switch)
+  );
+
+  color: hsl(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%)
+  );
+  background: rgba(
+    var(--label-r),
+    var(--label-g),
+    var(--label-b),
+    var(--background-alpha)
+  );
+  border-color: hsla(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%),
+    var(--border-alpha)
+  );
+  display: inline-block;
+  padding: 0 7px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  white-space: nowrap;
+  border: 1px solid;
+  border-radius: 2em;
+}
+a.tag[data-ref="compression"] {
+  /* green */
+  --label-r: 72;
+  --label-g: 171;
+  --label-b: 78;
+  --label-h: 123;
+  --label-s: 40;
+  --label-l: 47;
+
+  --lightness-threshold: 0.6;
+  --background-alpha: 0.18;
+  --border-alpha: 0.3;
+  --perceived-lightness: calc(
+    (
+        (var(--label-r) * 0.2126) + (var(--label-g) * 0.7152) +
+          (var(--label-b) * 0.0722)
+      ) / 255
+  );
+  --lightness-switch: max(
+    0,
+    min(
+      calc((var(--perceived-lightness) - var(--lightness-threshold)) * -1000),
+      1
+    )
+  );
+  --lighten-by: calc(
+    ((var(--lightness-threshold) - var(--perceived-lightness)) * 100) *
+      var(--lightness-switch)
+  );
+
+  color: hsl(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%)
+  );
+  background: rgba(
+    var(--label-r),
+    var(--label-g),
+    var(--label-b),
+    var(--background-alpha)
+  );
+  border-color: hsla(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%),
+    var(--border-alpha)
+  );
+  display: inline-block;
+  padding: 0 7px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  white-space: nowrap;
+  border: 1px solid;
+  border-radius: 2em;
+}
+a.tag[data-ref="blue"] {
+  /* blue */
+  --label-r: 0;
+  --label-g: 128;
+  --label-b: 255;
+  --label-h: 209;
+  --label-s: 100;
+  --label-l: 50;
+
+  --lightness-threshold: 0.6;
+  --background-alpha: 0.18;
+  --border-alpha: 0.3;
+  --perceived-lightness: calc(
+    (
+        (var(--label-r) * 0.2126) + (var(--label-g) * 0.7152) +
+          (var(--label-b) * 0.0722)
+      ) / 255
+  );
+  --lightness-switch: max(
+    0,
+    min(
+      calc((var(--perceived-lightness) - var(--lightness-threshold)) * -1000),
+      1
+    )
+  );
+  --lighten-by: calc(
+    ((var(--lightness-threshold) - var(--perceived-lightness)) * 100) *
+      var(--lightness-switch)
+  );
+
+  color: hsl(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%)
+  );
+  background: rgba(
+    var(--label-r),
+    var(--label-g),
+    var(--label-b),
+    var(--background-alpha)
+  );
+  border-color: hsla(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%),
+    var(--border-alpha)
+  );
+  display: inline-block;
+  padding: 0 7px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  white-space: nowrap;
+  border: 1px solid;
+  border-radius: 2em;
+}
+a.tag[data-ref="cyan"] {
+  /* cyan */
+  --label-r: 92;
+  --label-g: 232;
+  --label-b: 206;
+  --label-h: 168;
+  --label-s: 75;
+  --label-l: 63;
+
+  --lightness-threshold: 0.6;
+  --background-alpha: 0.18;
+  --border-alpha: 0.3;
+  --perceived-lightness: calc(
+    (
+        (var(--label-r) * 0.2126) + (var(--label-g) * 0.7152) +
+          (var(--label-b) * 0.0722)
+      ) / 255
+  );
+  --lightness-switch: max(
+    0,
+    min(
+      calc((var(--perceived-lightness) - var(--lightness-threshold)) * -1000),
+      1
+    )
+  );
+  --lighten-by: calc(
+    ((var(--lightness-threshold) - var(--perceived-lightness)) * 100) *
+      var(--lightness-switch)
+  );
+
+  color: hsl(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%)
+  );
+  background: rgba(
+    var(--label-r),
+    var(--label-g),
+    var(--label-b),
+    var(--background-alpha)
+  );
+  border-color: hsla(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%),
+    var(--border-alpha)
+  );
+  display: inline-block;
+  padding: 0 7px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  white-space: nowrap;
+  border: 1px solid;
+  border-radius: 2em;
+}
+a.tag[data-ref="lime"] {
+  /* lime */
+  --label-r: 92;
+  --label-g: 232;
+  --label-b: 206;
+  --label-h: 168;
+  --label-s: 75;
+  --label-l: 63;
+
+  --lightness-threshold: 0.6;
+  --background-alpha: 0.18;
+  --border-alpha: 0.3;
+  --perceived-lightness: calc(
+    (
+        (var(--label-r) * 0.2126) + (var(--label-g) * 0.7152) +
+          (var(--label-b) * 0.0722)
+      ) / 255
+  );
+  --lightness-switch: max(
+    0,
+    min(
+      calc((var(--perceived-lightness) - var(--lightness-threshold)) * -1000),
+      1
+    )
+  );
+  --lighten-by: calc(
+    ((var(--lightness-threshold) - var(--perceived-lightness)) * 100) *
+      var(--lightness-switch)
+  );
+
+  color: hsl(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%)
+  );
+  background: rgba(
+    var(--label-r),
+    var(--label-g),
+    var(--label-b),
+    var(--background-alpha)
+  );
+  border-color: hsla(
+    var(--label-h),
+    calc(var(--label-s) * 1%),
+    calc((var(--label-l) + var(--lighten-by)) * 1%),
+    var(--border-alpha)
+  );
+  display: inline-block;
+  padding: 0 7px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  white-space: nowrap;
+  border: 1px solid;
+  border-radius: 2em;
+}

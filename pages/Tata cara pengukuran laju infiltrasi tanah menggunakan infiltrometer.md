@@ -1,0 +1,10 @@
+- [[Sep 26th, 2022]]
+- keyword:: #infiltrasi #perkolasi #infiltrometer
+- [[infiltrasi]] proses menyerapnya air ke dalam tanah (permukaan tanah)/ada air yang menyerap
+- Besarnya infiltrasi dipengaruhi oleh faktor:
+	- Tinggi curah hujan
+	- Permukaan tanah
+		- Berhubungan dengan tata guna lahan.
+		- Daya serap pada kawasan hutan lebih tinggi daripada kawasan pemukiman
+	- Kepadatan tanah
+		- Kepadatan tanah berbanding lurus #linear dengan daya se

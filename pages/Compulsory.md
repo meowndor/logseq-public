@@ -1,0 +1,11 @@
+- Semester 1
+	- [[Engineering Maths]]
+- Semester 2
+	- [[Transportation System]]
+	-
+- Semester 3
+	- [[Structural Analysis]]
+	- [[Concrete Techonology]]
+	- [[Hydrology]]
+	- [[Mechanics of Materials]]
+	- [[Soil Mechanic Fundamentals]]

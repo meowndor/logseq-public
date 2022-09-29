@@ -1,0 +1,6 @@
+- Kuliah
+	- [[Compulsory]]
+- Defleksi dan Rotasi Balok Terlentur
+	- ### [[Metode Integrasi Ganda]]
+	- ### [[Metode Luas Bidang Momen]]
+	-

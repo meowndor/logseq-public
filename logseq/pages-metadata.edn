@@ -1,0 +1,314 @@
+[{:block/name "## struktur dan komposisi tanah",
+  :block/created-at 1664317026974,
+  :block/updated-at 1664317026974}
+ {:block/name "633154cb-cf17-4d00-9d96-29e14b3b2fa7",
+  :block/created-at 1664208047247,
+  :block/updated-at 1664208047247}
+ {:block/name "63333f37-4992-4582-8e87-485f1c524c44",
+  :block/created-at 1664336447103,
+  :block/updated-at 1664336447103}
+ {:block/name "6333bf78-76d7-4f48-a984-7442dbd1aa4a",
+  :block/created-at 1664336559606,
+  :block/updated-at 1664336559606}
+ {:block/name "a",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "admon-bug",
+  :block/created-at 1664457020522,
+  :block/updated-at 1664457020522}
+ {:block/name "angka pori",
+  :block/created-at 1664336088385,
+  :block/updated-at 1664351250688}
+ {:block/name "angka pori (void ratio) ($e$)",
+  :block/created-at 1664336200927,
+  :block/updated-at 1664336200927}
+ {:block/name "b",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "beam",
+  :block/created-at 1663732896350,
+  :block/updated-at 1663732896350}
+ {:block/name "bebanmerata",
+  :block/created-at 1663731031909,
+  :block/updated-at 1663731031909}
+ {:block/name "blender",
+  :block/created-at 1656855343221,
+  :block/updated-at 1656855343221}
+ {:block/name "blue",
+  :block/created-at 1664315548019,
+  :block/updated-at 1664315548019}
+ {:block/name "brown",
+  :block/created-at 1664315552269,
+  :block/updated-at 1664315552269}
+ {:block/name "c",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "card",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "compression",
+  :block/created-at 1663732972052,
+  :block/updated-at 1663732972052}
+ {:block/name "compulsory",
+  :block/created-at 1656854766123,
+  :block/updated-at 1664305874601}
+ {:block/name "concrete techonology",
+  :block/created-at 1663734399511,
+  :block/updated-at 1663734399511}
+ {:block/name "contents",
+  :block/created-at 1656772671174,
+  :block/updated-at 1664372269265}
+ {:block/name "cyan",
+  :block/created-at 1664315548018,
+  :block/updated-at 1664315548018}
+ {:block/name "defleksi",
+  :block/created-at 1663731036823,
+  :block/updated-at 1663731036823}
+ {:block/name "defleksi dan rotasi balok terlentur",
+  :block/created-at 1663734033407,
+  :block/updated-at 1663734033407}
+ {:block/name "deformasi",
+  :block/created-at 1664310775369,
+  :block/updated-at 1664310775369}
+ {:block/name "derajat kejenuhan",
+  :block/created-at 1664336683299,
+  :block/updated-at 1664336683395}
+ {:block/name "doing",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "done",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "dreams",
+  :block/created-at 1663433787072,
+  :block/updated-at 1663433787072}
+ {:block/name "dua dimensi",
+  :block/created-at 1664178311965,
+  :block/updated-at 1664178311965}
+ {:block/name "engineering maths",
+  :block/created-at 1656855162278,
+  :block/updated-at 1656855162278}
+ {:block/name "evening reflections",
+  :block/created-at 1663433787084,
+  :block/updated-at 1663433787084}
+ {:block/name "favorites",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "gaya normal",
+  :block/created-at 1664177520329,
+  :block/updated-at 1664177520329}
+ {:block/name "gayageser",
+  :block/created-at 1663731033360,
+  :block/updated-at 1663731033360}
+ {:block/name "gratitude",
+  :block/created-at 1663433787065,
+  :block/updated-at 1663433787065}
+ {:block/name "hls__bab2_2.1_2.2_2.3_1664297400197_0",
+  :block/created-at 1664300240194,
+  :block/updated-at 1664300240194}
+ {:block/name
+  "hls__structural_and_stress_analysis_(t.h.g._megson_(auth.))_(z-lib.org)_1662788805123_0",
+  :block/created-at 1662788879604,
+  :block/updated-at 1662788879604}
+ {:block/name "https://lottiefiles.com/120096-ai-assistant-animation",
+  :block/created-at 1664365951587,
+  :block/updated-at 1664365951587}
+ {:block/name "hydrology",
+  :block/created-at 1664172153722,
+  :block/updated-at 1664172277515}
+ {:block/name "in-progress",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "infiltrasi",
+  :block/created-at 1664172490124,
+  :block/updated-at 1664172490124}
+ {:block/name "infiltrometer",
+  :block/created-at 1664172490125,
+  :block/updated-at 1664172490125}
+ {:block/name "jul 11th, 2022",
+  :block/created-at 1657535342079,
+  :block/updated-at 1657535389658}
+ {:block/name "jul 2nd, 2022",
+  :block/created-at 1656708062584,
+  :block/updated-at 1656708062584}
+ {:block/name "jul 3rd, 2022",
+  :block/created-at 1656840611109,
+  :block/updated-at 1656854088810}
+ {:block/name "jul 4th, 2022",
+  :block/created-at 1656867628601,
+  :block/updated-at 1656867628601}
+ {:block/name "later",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "li-ion battery 101",
+  :block/created-at 1657535389657,
+  :block/updated-at 1657535963309}
+ {:block/name "light-blue",
+  :block/created-at 1664315572952,
+  :block/updated-at 1664315572952}
+ {:block/name "light-red",
+  :block/created-at 1664315572952,
+  :block/updated-at 1664315572952}
+ {:block/name "lime",
+  :block/created-at 1664315548018,
+  :block/updated-at 1664315548018}
+ {:block/name "linear",
+  :block/created-at 1664173039286,
+  :block/updated-at 1664173039286}
+ {:block/name "luas penampang",
+  :block/created-at 1664177520331,
+  :block/updated-at 1664177520331}
+ {:block/name "mandatory",
+  :block/created-at 1656855303421,
+  :block/updated-at 1656855343222}
+ {:block/name "mechanics of materials",
+  :block/created-at 1664173074868,
+  :block/updated-at 1664317056215}
+ {:block/name "meeting notes",
+  :block/created-at 1663433787077,
+  :block/updated-at 1663433787077}
+ {:block/name "mekanika bahan",
+  :block/created-at 1664177269528,
+  :block/updated-at 1664177269528}
+ {:block/name "metode integrasi ganda",
+  :block/created-at 1663733762904,
+  :block/updated-at 1664316542189}
+ {:block/name "metode luas bidang momen",
+  :block/created-at 1663743384188,
+  :block/updated-at 1663743384188}
+ {:block/name "momen",
+  :block/created-at 1664310931349,
+  :block/updated-at 1664310931349}
+ {:block/name "morning pages",
+  :block/created-at 1663433787062,
+  :block/updated-at 1663433787062}
+ {:block/name "neon",
+  :block/created-at 1664315587001,
+  :block/updated-at 1664315587001}
+ {:block/name "now",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "one thing to remember",
+  :block/created-at 1663433787068,
+  :block/updated-at 1663433787068}
+ {:block/name "perkolasi",
+  :block/created-at 1664172490125,
+  :block/updated-at 1664172490125}
+ {:block/name "pink",
+  :block/created-at 1664315552270,
+  :block/updated-at 1664315552270}
+ {:block/name "porositas",
+  :block/created-at 1664336293025,
+  :block/updated-at 1664336293085}
+ {:block/name "purple",
+  :block/created-at 1664315548017,
+  :block/updated-at 1664315548017}
+ {:block/name "rotasi",
+  :block/created-at 1663731035296,
+  :block/updated-at 1663731035296}
+ {:block/name "sep 10th, 2022",
+  :block/created-at 1662786817657,
+  :block/updated-at 1662788445621}
+ {:block/name "sep 11th, 2022",
+  :block/created-at 1662870807846,
+  :block/updated-at 1662870807846}
+ {:block/name "sep 12th, 2022",
+  :block/created-at 1662957986199,
+  :block/updated-at 1662958323445}
+ {:block/name "sep 13th, 2022",
+  :block/created-at 1663058276435,
+  :block/updated-at 1663087788991}
+ {:block/name "sep 17th, 2022",
+  :block/created-at 1663432036875,
+  :block/updated-at 1663435463446}
+ {:block/name "sep 18th, 2022",
+  :block/created-at 1663434001640,
+  :block/updated-at 1663506462230}
+ {:block/name "sep 21st, 2022",
+  :block/created-at 1663730387612,
+  :block/updated-at 1664311404698}
+ {:block/name "sep 22nd, 2022",
+  :block/created-at 1663818858495,
+  :block/updated-at 1663819114026}
+ {:block/name "sep 26th, 2022",
+  :block/created-at 1664171963629,
+  :block/updated-at 1664208290103}
+ {:block/name "sep 27th, 2022",
+  :block/created-at 1664211623248,
+  :block/updated-at 1664316875751}
+ {:block/name "sep 28th, 2022",
+  :block/created-at 1664298000568,
+  :block/updated-at 1664459508674}
+ {:block/name "sep 29th, 2022",
+  :block/created-at 1664384408236,
+  :block/updated-at 1664384408236}
+ {:block/name "sep 4th, 2022",
+  :block/created-at 1662278446565,
+  :block/updated-at 1662278446565}
+ {:block/name "soil mechanic fundamentals",
+  :block/created-at 1664296764980,
+  :block/updated-at 1664306343917}
+ {:block/name "statics",
+  :block/created-at 1662788158380,
+  :block/updated-at 1662788262776}
+ {:block/name "structural analysis",
+  :block/created-at 1663741813838,
+  :block/updated-at 1663742655614}
+ {:block/name "structural analysis: in theory and practice",
+  :block/created-at 1662788262774,
+  :block/updated-at 1662788262774}
+ {:block/name "struktur dan komposisi tanah",
+  :block/created-at 1664306244719,
+  :block/updated-at 1664351733751}
+ {:block/name "struktur dan komposisi tanah\\",
+  :block/created-at 1664317030919,
+  :block/updated-at 1664317030919}
+ {:block/name
+  "tata cara pengukuran laju infiltrasi tanah menggunakan infiltrometer",
+  :block/created-at 1664172408215,
+  :block/updated-at 1664173039286}
+ {:block/name "tegangan normal",
+  :block/created-at 1664208231654,
+  :block/updated-at 1664208231654}
+ {:block/name "templates",
+  :block/created-at 1663433787094,
+  :block/updated-at 1664371483606}
+ {:block/name "tensile",
+  :block/created-at 1664311420675,
+  :block/updated-at 1664311420675}
+ {:block/name "thinking about",
+  :block/created-at 1663433787067,
+  :block/updated-at 1663433787067}
+ {:block/name "titik berat",
+  :block/created-at 1664178220089,
+  :block/updated-at 1664309349332}
+ {:block/name "todo",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "transportation system",
+  :block/created-at 1656855201431,
+  :block/updated-at 1656855201431}
+ {:block/name "wait",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "waiting",
+  :block/created-at 1656772671174,
+  :block/updated-at 1656772671174}
+ {:block/name "what challenges are proving useful?",
+  :block/created-at 1663433787070,
+  :block/updated-at 1663433787070}
+ {:block/name "what could have gone better?",
+  :block/created-at 1663433787089,
+  :block/updated-at 1663433787089}
+ {:block/name "what happened today?",
+  :block/created-at 1663433787085,
+  :block/updated-at 1663433787085}
+ {:block/name "what is my goal for today?",
+  :block/created-at 1663433787074,
+  :block/updated-at 1663433787074}
+ {:block/name "what went well?",
+  :block/created-at 1663433787087,
+  :block/updated-at 1663433787087}
+ {:block/name "🏗 structural and stress analysis: third edition",
+  :block/created-at 1662787912518, 
+  :block/updated-at 1663731507654}]

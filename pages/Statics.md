@@ -1,0 +1,2 @@
+- [[🏗 Structural and Stress Analysis: Third Edition]]
+- [[Structural Analysis: In Theory and Practice]]
