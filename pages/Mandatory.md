@@ -1,1 +1,3 @@
 - [[Blender]] #3D
+- [[Machine Learning]]
+- [[Medical]]

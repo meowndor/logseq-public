@@ -1,0 +1,32 @@
+- #admon-note Possible Title
+	- # Should We Kill Million to Save Billions?: The Silver Lining of Hiking Gas Prices in Indonesia
+	- Topic: Hiking Gas Prices
+	- Question: Should We Kill Million to Save Billions?
+- # Introduction
+	- #admon-question Question
+		- Why hiking gas prices seems bad idea for most people
+		- How people should think about
+		- How much damage that our earth has received
+	- Gas Prices has increased 30% in Indonesia #a-couple-of months ago, from Rp7,560.00 to Rp10,000.00 and it's been a hot topic as blue blazes in several social media. The government said this wheels within wheels decision was made for the sake of depreciating rupiah currency.
+	- The latter was estimated to be of the order of 40%, or 47.5gCO2/km for 2015 average fleet emissions, but could range up to 60% or down to 19% depending on prevailing traffic conditions.[^1]
+	- [^1][[@A review of vehicle fuel consumption models to evaluate eco-driving and eco-routing]]
+	-
+- # Thesis Statement
+	- #admon-note Note
+		- This is part of your first paragraph. It is a concise, one-sentence summary of your main point and claim.
+	- #admon-Tips Tips
+		- Turn the topic into a question and answer it.
+		- Set up a big question in the title of your essay or within the first few sentences.
+		- Then, build up to answering that question in your thesis statement.
+	- In spite of killing million of people, hiking gas prices in Indonesia could save billions sooner or later.
+	- While some people The idea of hiking gas prices does not always comes below par and it should be fired away as soon as possible, so that the future could hit the ground running.
+- # Body Paragraph
+	- #admon-note Note
+		- Would be some facts cited from ScienceDirect and personal opinion
+	- #admon-question Question
+		- How much carbon saved?
+		- Should we have micromobility trends?
+		- How bad is climate change now?
+		- How does it affects in any field related to Civil Engineering?
+		- What kind of disaster?
+- # Conclusion

@@ -70,4 +70,5 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
  :favorites []
- :graph/settings {:journal? true, :builtin-pages? false}}
+ :graph/settings {:journal? true, :builtin-pages? false}
+ :zotero/settings-v2 {"default" {:type-id "9756735", :prefer-citekey? false, :zotero-linked-attachment-base-directory "", :zotero-data-directory "C:/Users/damar/Zotero", :page-insert-prefix "", :notes-block-text "[[Notes]]"}}}

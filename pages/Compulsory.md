@@ -9,3 +9,4 @@
 	- [[Hydrology]]
 	- [[Mechanics of Materials]]
 	- [[Soil Mechanic Fundamentals]]
+	- [[English for Academic Writing]]
