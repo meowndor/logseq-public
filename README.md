@@ -1,1 +1,1 @@
-"# logseq-public" 
+# logseq-public
