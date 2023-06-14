@@ -1,0 +1,39 @@
+tags:: #[[Machine Learning]] #[[Dasar Visualisasi Data]]
+
+- # Exploratory vs Explanatory
+	- ## Exploratory
+		- Penyampaian hasil visualisasi dengan memandu dan membimbing audiens bagaimana perjalanannya dalam mengolah data.
+	- ## Explanatory
+		- Penyampaian hasil visualisasi dengan langsung menampilkan dan menjelaskan poin-poin utama dan implikasi data tanpa menjelaskan prosesnya dari nol.
+	- Jika dianalogikan pada sebuah cerita melihat berkunjung ke suatu landmark,
+		- **exploratory analysis** adalah bagian di mana tokoh mempersiapkan barang-barang yang dibutuhkan, sarana dan prasarana, dan perjalanan untuk sampai ke landmark tersebut,
+		- sedangkan **explanatory analysis** adalah cerita saat menikmati kunjungan ke landmark tersebut.
+	- Ada tiga pertanyaan untuk melakukan **explanatory analysis**:
+		- ### Kepada Siapa Kita Berkomunikasi?
+			- Melihat dari sisi audiens
+				- Berkomunikasi dengan bermacam-macam audiens pada saat yang sama sekaligus cenderung tidak tepat sasaran, karena kebutuhan masing-masing orang berbeda
+				- Persempit target audiens, maka hasilnya akan lebih efektif
+			- Melihat dari sisi sendiri
+				- Lakukan perkenalanan diri
+				- Hal ini dilakukan agar audiens bisa mengenal, apakah data yang disampaikan bisa dipercaya atau tidak
+				- Jika belum pernah bertemu dengan audiens, maka kita harus membangun reputasi terlebih dahulu agar mengerti betul topik yang akan kita sampaikan
+		- ### Bagaimana Kita Berkomunikasi dengan Audiens?
+			- Alat
+			- Pembawaan diri
+				- Hilangkan asumsi bahwa audiens mungkin lebih tau daripada kita
+				- Jika kita adlaah orang yang menganilisi dan mengomunikasikan data, maka kita harus percaya diri
+				- Lakukan interaksi dengan audiens untuk meningkatkan keterlibatan mereka atau mengurangi rasa gugup saat penyampaian data
+		- ### Bagaimaan Kita Bisa Menggunakan Daya untuk Membantu Menegaskan Maksud Kita?
+			- Gunakan unsur dalam metode 5W(1H)
+				- <table border="1" cellpadding="0" cellspacing="0" class="table-responsive table" width="624"><tbody><tr><td rowspan="2" valign="top" width="156"><p align="center"><strong>Perusahaan</strong></p></td><td colspan="2" valign="top" width="312"><p align="center"><strong>Penjualan Tiket</strong></p></td><td rowspan="2" valign="top" width="156"><p align="center"><strong>Wilayah</strong></p></td></tr><tr><td valign="top" width="156"><p align="center"><strong>2019</strong></p></td><td valign="top" width="156"><p align="center"><strong>2020</strong></p></td></tr><tr><td valign="top" width="156"><p>Cinema31</p></td><td valign="top" width="156"><p align="right">1.000.000</p></td><td valign="top" width="156"><p align="right">1.500.000</p></td><td valign="top" width="156"><p>Indonesia</p></td></tr><tr><td valign="top" width="156"><p>Cinegold</p></td><td valign="top" width="156"><p align="right">1.000.000</p></td><td valign="top" width="156"><p align="right">1.500.000</p></td><td valign="top" width="156"><p>Indonesia</p></td></tr></tbody></table>
+				- <table border="1" cellpadding="0" cellspacing="0" class="table-responsive table" width="624"><tbody><tr><td valign="top" width="497"><p><strong>Survey kepada Pengunjung Bioskop di tahun 2020: <br>Alasan Utama Kenapa ke Bioskop</strong></p></td><td valign="top" width="127"><p><strong>Jumlah Orang</strong></p></td></tr><tr><td valign="top" width="497"><p>Sedang ada diskon</p></td><td valign="top" width="127"><p align="right">237.505</p></td></tr><tr><td valign="top" width="497"><p>Sedang ada film bagus</p></td><td valign="top" width="127"><p align="right">15.034</p></td></tr><tr><td valign="top" width="497"><p>Bosan di rumah</p></td><td valign="top" width="127"><p align="right">6.145</p></td></tr><tr><td valign="top" width="497"><p>Makanan atau minuman bioskop enak</p></td><td valign="top" width="127"><p align="right">4.758</p></td></tr><tr><td valign="top" width="497"><p>Alasan lainnya</p></td><td valign="top" width="127"><p align="right">1.588</p></td></tr></tbody></table>
+				- **What**: Apa yang terjadi?
+					- Penjualan tiket bioskop naik 50%
+				- **Who**: Siapa yang terlibat?
+					- Penjualan tiket bioskop **perusahaan Cinema31 dan Cinegold* naik 50%
+				- **When**: Kapan terjadinya?
+					- Penjualan tiket bioskop perusahaan Cinema31 dan Cinegild naik 50% **pada tahun 2020**
+				- **Where**: Di mana kejadiannya?
+					- Penjualan tiket bioskop perusahaan Cinema31 dan Cinegold **di Indonesia** naik 50% pada tahun 2020**
+				- **Why**: Mengapa hal itu terjadi?
+					- Penjualan tiket bioskop perusahaan Cinema31 dan Cinegold di Indonesia naik 50% pada tahun 2020 **karena didorong oleh diskon**

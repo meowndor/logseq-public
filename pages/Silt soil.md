@@ -1,0 +1,5 @@
+- Passing sieve No.200 (75μm)
+- Fine-grained soil or the fine-grained protion of a soil with $$PI<4$$ **OR**
+- If the plot of plasticity index versus liquid limit falls **BELOW** the "A"-line
+	- {{embed ((63479de8-f891-4791-aa37-20d4fd3c5130))}}
+	-

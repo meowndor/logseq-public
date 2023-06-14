@@ -1,5 +1,6 @@
 - Semester 1
 	- [[Engineering Maths]]
+	- [[Materials Fundamentals]]
 - Semester 2
 	- [[Transportation System]]
 	-
@@ -10,3 +11,7 @@
 	- [[Mechanics of Materials]]
 	- [[Soil Mechanic Fundamentals]]
 	- [[English for Academic Writing]]
+- Semester 3
+	- [[Steel Structure]]
+	- [[Geotechnic Investigation]]
+	-

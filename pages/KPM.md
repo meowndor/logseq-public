@@ -1,0 +1,59 @@
+- # Pre-KPM
+  collapsed:: true
+	- ## Conference
+		- BIMA
+			- # Isi
+			  collapsed:: true
+				- #admon-note Note
+					- Visual-audio book: definition
+					- BIMA: definition
+				- Bahan pembelajaran audio-visual berperan penting dalam dunia pendidikan dikarenakan konsep penyampaian materi secara dua sisi, audio dan juga visual secara bersamaan, sehingga pengguna lebih bisa mendalami. Di samping itu, konsep ini memiliki kelebihan dari segi kemudahan dan terjangkau [^1].
+				- BIMA merupakan sebuah *platform*[^&&] ... yang di dalamnya terdapat beberapa fitur dengan tujuan untuk memperoleh tingkat pemahaman dan beripikir kritis yang baik secara tidak langsung. Fitur yang yang dikembangkan meliputi puzzle, pembuatan avatar bertema wayang, dan sebuah ruang diskusi.
+					- ## Avatar
+						- Tujuan dari fitur pembuatan avatar ini adalah untuk membuat penggunanya lebih memahami arti dari setiap atribut-atribut yang dipakai dalam tokoh pewayangan.
+					- ## Permainan
+						- Tujuan dari konsep permainan ini adalah untuk meningkatkan level berpikir yang kritis.
+						- Permainan berupa strategi[^**] dalam menghadapi peran antagonis menggunakan avatar yang mereka buat sendiri berdasarkan kombinasi-kombinasi atribut-atribut dari tokoh wayang lain.
+					- ## Ruang Diskusi
+						- Ruang diskusi ini ditujukan untuk memberi ruang kepada pengguna untuk berbagi cerita wayang yang mereka buat sendiri mirip seperti alternate universe.
+				- ---
+				- [^&&]: need correction
+				- [^**]: or puzzle?
+				- # Referensi
+				- [^1]: [[@Audio-visual materials and the curriculum—a key development?]]
+				-
+- # Project
+	- Mathematics on Paper
+	  collapsed:: true
+		- url:: [IKAHIMATIKA Indonesia (@ikahimatika) • Instagram photos and videos](https://www.instagram.com/p/Cmq_Q50JiWy/)
+		- Possible Title alternative
+		  collapsed:: true
+			- # "Matematika Sebagai Katalisator Pembangunan Berkelanjutan: Meningkatkan Kreativitas dan Inovasi Mahasiswa"
+			- # "Penggunaan Model Matematika untuk Mencapai Tujuan Pembangunan Berkelanjutan: Strategi Menumbuhkan Kreativitas dan Inovasi Mahasiswa"
+			- # "Matematika dan Keberlanjutan: Bagaimana Menerapkan Konsep Matematika Dapat Mempromosikan Kreativitas dan Inovasi Siswa untuk Masa Depan yang Lebih Baik"
+			- # "Matematika untuk Pembangunan Berkelanjutan: Memanfaatkan Kekuatan Matematika untuk Mendorong Kreativitas dan Inovasi Siswa"
+		- # "Peran Matematika dalam Mencapai Tujuan Pembangunan Berkelanjutan: Menggunakan Matematika untuk Meningkatkan Kreativitas dan Inovasi Siswa"
+			- ## Introduction
+				- #admon-tips Tips
+					- Definition of sustainable development goals (SDGs)
+					- Importance of SDGs in addressing global challenges
+					- The role of mathematics in achieving SDGs
+				-
+			- ## Penggunaan matematika dalam penyelesaian real-world problem
+				- #admon-tips Tips
+					- Examples of real-world problems that can be addressed using mathematical tools
+					- The importance of applying mathematical concepts to solve real-world problems
+			- ## Keuntungan menggunakan matematika untuk mencapai SDG
+				- #admon-tips Tips
+					- Enhancing problem-solving skills and critical thinking
+					- Promoting creativity and innovation
+					- Facilitating data analysis and decision-making
+			- ## Peran pendidikan dalam mempromosikan penggunaan matematika untuk SDGs
+				- #admon-tips Tips
+					- The importance of teaching mathematics in a real-world context
+					- Strategies for incorporating mathematics in the curriculum to address SDGs
+			- ## Conclusion
+				- #admon-tips Tips
+					- The potential of mathematics to contribute to sustainable development
+					- The importance of promoting the use of mathematics in education to achieve SDGs and enhance student creativity and innovation
+- [[meeting notes]]

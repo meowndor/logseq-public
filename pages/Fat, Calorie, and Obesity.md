@@ -1,0 +1,6 @@
+- Calories are a measure of the energy content of food. When you eat more calories than your body needs to function, the excess calories are stored as fat. Over time, if you continue to consume more calories than your body needs, you will gain weight and may become obese.
+- Fat is one of the three macronutrients that provide calories in food (the others are carbohydrates and protein). Fat provides 9 calories per gram, while carbohydrates and protein each provide 4 calories per gram. Eating foods that are high in fat can contribute to weight gain because they are more calorie-dense than foods that are high in carbohydrates or protein.
+- Obesity occurs when you have an excessive amount of body fat. It’s a complex disease that is influenced by many factors, including genetics, behavior, and environment. Consuming more calories than your body needs, particularly from high-fat foods, can contribute to the development of obesity.
+- # See Also
+- [[How Excess Calories Stored as Fat]]
+-

@@ -7,26 +7,54 @@
 		- Why hiking gas prices seems bad idea for most people
 		- How people should think about
 		- How much damage that our earth has received
-	- Gas Prices has increased 30% in Indonesia #a-couple-of months ago, from Rp7,560.00 to Rp10,000.00 and it's been a hot topic as blue blazes in several social media. The government said this wheels within wheels decision was made for the sake of depreciating rupiah currency.
-	- The latter was estimated to be of the order of 40%, or 47.5gCO2/km for 2015 average fleet emissions, but could range up to 60% or down to 19% depending on prevailing traffic conditions.[^1]
-	- [^1][[@A review of vehicle fuel consumption models to evaluate eco-driving and eco-routing]]
-	-
+	- Gas Prices has increased 30% in Indonesia #a-couple-of months ago, from Rp7,560.00 to Rp10,000.00 and it's been a hot topic as blue blazes in several social media. The government said this wheels within wheels decision was made for the sake of depreciating rupiah currency[^1].
+	- Gas emission that coming from burning fossil fuels (such as oil, coal, and natural gas) are the most contributor of carbon dioxide to earth aside from from wildfires, and natural processes like volcanic eruption which cause heat-trapping gas, or greenhouse effect [^2]. This kind of effect adds earth's temperature up to 1 degree celcius since 1880[^3]. It might seems not a big number but, the effect are now occuring such as accelerated sea level rise, more intense heat waves and sea ice loss. All these effect will cause damage to most buildings that have been built and influence scientist and civil engineers at the most.
 - # Thesis Statement
 	- #admon-note Note
 		- This is part of your first paragraph. It is a concise, one-sentence summary of your main point and claim.
+		- Keep it simple stupid
 	- #admon-Tips Tips
 		- Turn the topic into a question and answer it.
 		- Set up a big question in the title of your essay or within the first few sentences.
 		- Then, build up to answering that question in your thesis statement.
-	- In spite of killing million of people, hiking gas prices in Indonesia could save billions sooner or later.
-	- While some people The idea of hiking gas prices does not always comes below par and it should be fired away as soon as possible, so that the future could hit the ground running.
+	- In spite of killing million of people, hiking gas prices in Indonesia could save billions sooner or later despite the fact that some people against the idea of hiking gas prices, it does not always comes below par and should be fired away as soon as possible, so that the future could hit the ground running.
+	- According to that, hiking gas prices could save billions sooner or later though it's considered detrimental for many people, and it should be fired away as soon as possible to prevent climate change that affect current structural building design. But how does it comes?
 - # Body Paragraph
 	- #admon-note Note
 		- Would be some facts cited from ScienceDirect and personal opinion
 	- #admon-question Question
-		- How much carbon saved?
-		- Should we have micromobility trends?
 		- How bad is climate change now?
-		- How does it affects in any field related to Civil Engineering?
+		- How much carbon saved?
 		- What kind of disaster?
+		- How can it affects in any field related to Civil Engineering?[^1][^2]
+		- Should we have micromobility trends?
+	- If we take a look on what cause the climate change, large amount of exhaust emissions resulted by a considerable amount of fuel consumed by cars each year, approximately 59% of oil was used for transportation resulting approximately 22% carbon dioxide emissions[^2]. By using same amount for each year, the effect will doubled each year exponentially, even worst.
+	- At our current rate of greenhouse gas emissions, the World Health Organization (WHO) estimates climate change will cause an extra 250,000 deaths per year from malnutrition, malaria, diarrhea, and heat stress alone[^8].
+	- To make matters worse, climate change is also damaging the the infrastructure we have already built.
+	- ## The effects
+		- A systematic state-of-the-art review found saying that construction delays could be related to weather in a changing climate. As the climate changes, there may be an increase in extreme weather events such as heavy rainfall, hurricanes, and heatwaves, which could potentially disrupt construction schedules and cause delays. Additionally, certain construction materials and methods may be more susceptible to damage from extreme weather, which could also contribute to delays[^4].
+		- Heavy rainfall and other forms of precipitation can make roads slippery and reduce visibility, which can increase the risk of accidents. The exact relationship between precipitation and traffic crashes will likely depend on a variety of factors, such as the amount and type of precipitation, the condition of the roads, and the driving behaviors of individuals. Additionally, other factors such as driver impairment, vehicle maintenance, and road design can also play a role in the rate of traffic crashes. But, traffic crashes rate still possible to raises due to climate change, though only substantial precipitation (heavy or very heavy) that associated with increasing the fatal crash rate[^5].
+		- Exposure to certain gases, leaked fuel, and oil such as sulfur dioxide and nitrogen oxides will damage the asphalt layer by dissolving the binder, softening the mixture and can cause the asphalt in roads to break down and become damaged more quickly, leading to cracks, potholes, and other problems. This can increase the need for road maintenance and repair, and can also reduce the lifespan of roads, requiring more frequent replacements [^6].
+		- Many civil engineering projects, such as bridges and buildings, are made up of steel structures. Gas emissions from vehicles can contain acidic compounds, such as sulfuric acid, which can cause steel to corrode and weaken over time. This can reduce the structural integrity of these projects, and can make them more susceptible to damage from natural disasters and other events[^7].
+		- Gas emissions from vehicles are a major source of air pollution, which can have a range of negative effects on human health, the environment, and infrastructure. For example, air pollution can cause respiratory problems and other health issues, and can also damage vegetation and wildlife. Additionally, air pollution can cause materials to degrade more quickly, leading to increased maintenance and repair costs for civil engineering projects.
+	- Although raising gas prices can also be difficult--as it can put a financial burden on people who rely on cars for their daily transportation needs--it can be one way to reduce the amount of greenhouse gas emissions from transportation, which is a major contributor to climate change and save billions of people in the future. By making gas more expensive, people may be more likely to burn less fossils fuels on their own vehicle and might have second thought about to using it for long term, then soon they will choose alternative forms of transportation, such as public transit, biking, or walking, which produce fewer emissions. Additionally, higher gas prices can encourage people to drive more fuel-efficient cars or even electric vehicle because it's much more efficient and considered more affordable and produce fewer emissions. Some of these potential benefits include reduced damage to asphalt pavement roads, improved air quaility, and reduced energy demand.
+	- EVs produce no tailpipe emissions, which means they do not release the gases that can cause damage to asphalt pavement roads. As a result, the use of EVs could help to extend the lifespan of roads, reducing the need for maintenance and repair and potentially saving money in the long run.
+	- Because EVs produce no tailpipe emissions, their use could help to improve air quality by reducing the amount of pollution in the air. This could have a range of benefits for human health, the environment, and infrastructure, such as reducing the negative effects of air pollution on vegetation and wildlife, and reducing the rate of materials degradation.
+	- Moreover, EVs are powered by electricity, which can be generated from a variety of sources, including renewable energy sources such as solar and wind power. This means that the use of EVs could help to reduce demand for fossil fuels, which are a major source of greenhouse gas emissions and other pollutants. In turn, this could help to combat climate change and reduce the negative impacts of the energy sector on the environment.
+	- ### Solution
+	  collapsed:: true
+		- By hiking the gas prices, people would tend to burn less fossils fuels on their own vehicle and might have second thought about to using it for long term. At the same time, people would buy electric vehicle because it's much more efficient and considered more affordable, also it could press carbon emission. <some evidence shows that EV is breakthrough>.
 - # Conclusion
+- Overall, the use of EVs could have a number of positive impacts on civil engineering projects and infrastructure, and could help to address a range of environmental, health, and economic challenges.
+- This is could potentially prevent climate change that lead to our existing infrastructure which was not designed for the rising sea levels, droughts, extreme rainfall events and heatwaves that climate change will increasingly bring. Some example of damage caused by climate change on infrastructure will cause increased coastal flooding and damage to properties, higher winds are damaging above ground infrastructure such as power pylons and building and closing bridges, and damages earthworks along transport and flood defence corridors causing landslips and undercutting. This kind of problem we are facing need more research that is no mean feat to meet the new requirements of disaster-proof building.
+- ## Another possible conclusion (OpenAI)
+	- Climate change is damaging our infrastructure, causing construction delays and increasing the risk of traffic crashes, as well as damaging roads and steel structures. One way to reduce emissions from vehicles is to raise gas prices, which could encourage people to use alternative forms of transportation and drive more fuel-efficient cars or EVs.
+- # Reference
+- [^1]: [[@Price Update - MyPertamina]]
+- [^2]: [[@A review of vehicle fuel consumption models to evaluate eco-driving and eco-routing]]
+- [^3]: [[@Home]]
+- [^4]: [[@Weather-Related Construction Delays in a Changing Climate: A Systematic State-of-the-Art Review]]
+- [^5]: [[@The mixed effects of precipitation on traffic crashes]]
+- [^6]: [[@The Effect of Silicone Resin on the Fuel Oil Corrosion Resistance of Asphalt Mixture]]
+- [^7]: [[@Influence of Air Pollution Factors on Corrosion of Metal Equipment in Transmission and Transformation Power Stations]]
+- [^8]: [[@COP24 special report: health and climate change]]

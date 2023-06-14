@@ -1,0 +1,2 @@
+- [[I don't blame the dirt for wanting to shimmer. I blame the water for thinking it's too good to make mud]]
+-

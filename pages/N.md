@@ -1,0 +1,3 @@
+- There are some people who make the world a better place just by being in it. You are one of those people. You have touched so many lives with your kindness, generosity, and humor. You are a rare and precious gift to everyone who knows you.
+- On this special day, I want to tell you how much I appreciate you and how much you mean to me. You are more than just a [relationship], you are a [adjective] friend and a [adjective] person. You always [verb] me when I need it, and you always [verb] me to [verb]. You inspire me to be a better version of myself. Shit!
+- Happy birthday, [name]! I hope your day is filled with joy and laughter. You deserve all the best in life, and I'm so grateful to have you in mine. I love you!

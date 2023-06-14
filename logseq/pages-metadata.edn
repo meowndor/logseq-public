@@ -1,4 +1,7 @@
-[{:block/name "## struktur dan komposisi tanah",
+[{:block/name "\"i want you to do some 'space' for yourself\"",
+  :block/created-at 1676529847840,
+  :block/updated-at 1676532905479}
+ {:block/name "## struktur dan komposisi tanah",
   :block/created-at 1664317026974,
   :block/updated-at 1664317026974}
  {:block/name "633154cb-cf17-4d00-9d96-29e14b3b2fa7",
@@ -10,58 +13,224 @@
  {:block/name "6333bf78-76d7-4f48-a984-7442dbd1aa4a",
   :block/created-at 1664336559606,
   :block/updated-at 1664336559606}
+ {:block/name "63425c8a-2b59-4329-ad56-81f311c69ece",
+  :block/created-at 1665293566965,
+  :block/updated-at 1665293566965}
+ {:block/name "6342630b-a51e-40e2-981f-ad1568e4745a",
+  :block/created-at 1665295259821,
+  :block/updated-at 1665295259821}
+ {:block/name "63479de8-f891-4791-aa37-20d4fd3c5130",
+  :block/created-at 1665638137402,
+  :block/updated-at 1665638137402}
+ {:block/name "@",
+  :block/created-at 1666109799151,
+  :block/updated-at 1666109799151}
  {:block/name "@10 - lidar (light detection and ranging)",
-  :block/created-at 1665057021930,
-  :block/updated-at 1665057021930}
+  :block/created-at 1665298600589,
+  :block/updated-at 1665298600589}
  {:block/name
   "@a deep learning approach for fast detection and classification of concrete damage",
-  :block/created-at 1665057021978,
-  :block/updated-at 1665057021978}
+  :block/created-at 1665298600641,
+  :block/updated-at 1665298600641}
+ {:block/name
+  "@a probabilistic approach for the assessment of the influence of the dielectric constant of pore fluids on the liquid limit of smectite and kaolinite",
+  :block/created-at 1668649266289,
+  :block/updated-at 1668649266289}
  {:block/name
   "@a review of vehicle fuel consumption models to evaluate eco-driving and eco-routing",
-  :block/created-at 1665057020580,
-  :block/updated-at 1665057020580}
+  :block/created-at 1665298599407,
+  :block/updated-at 1665298599407}
  {:block/name
   "@advances in deep learning methods for pavement surface crack detection and identification with visible light visual images",
-  :block/created-at 1665057021812,
-  :block/updated-at 1665057021812}
+  :block/created-at 1665298600463,
+  :block/updated-at 1665298600463}
  {:block/name
   "@an easy way to work and visualize lidar data in python",
-  :block/created-at 1665057021718,
-  :block/updated-at 1665057021718}
+  :block/created-at 1665298600352,
+  :block/updated-at 1665298600352}
+ {:block/name
+  "@audio-visual materials and the curriculum—a key development?",
+  :block/created-at 1667984973362,
+  :block/updated-at 1667984973362}
  {:block/name
   "@automatic reconstruction of road surface features by using terrestrial mobile lidar",
-  :block/created-at 1665057021866,
-  :block/updated-at 1665057021866}
+  :block/created-at 1665298600527,
+  :block/updated-at 1665298600527}
+ {:block/name
+  "@available for beta testing: improved webpage snapshots",
+  :block/created-at 1665298596940,
+  :block/updated-at 1665298596940}
+ {:block/name
+  "@bike sharing use in conjunction to public transport: exploring spatiotemporal",
+  :block/created-at 1666109805288,
+  :block/updated-at 1666109805288}
  {:block/name
   "@bike sharing use in conjunction to public transport: exploring spatiotemporal, age and gender dimensions in oslo, norway",
-  :block/created-at 1665057022041,
-  :block/updated-at 1665057022041}
+  :block/created-at 1665298600700,
+  :block/updated-at 1665298600700}
+ {:block/name "@chapter 4  -  shield machine selection",
+  :block/created-at 1666419819020,
+  :block/updated-at 1666419843917}
  {:block/name
   "@chapter 5 - autonomous rail rapid transit (art) systems",
-  :block/created-at 1665057021734,
-  :block/updated-at 1665057021734}
+  :block/created-at 1665298600383,
+  :block/updated-at 1665298600383}
+ {:block/name
+  "@comparison between the falling head and the constant head permeability tests to assess the permeability coefficient of sustainable pervious concretes",
+  :block/created-at 1666356371387,
+  :block/updated-at 1666356392167}
+ {:block/name "@concrete",
+  :block/created-at 1666109798309,
+  :block/updated-at 1666109798309}
+ {:block/name "@cop24 special report: health and climate change",
+  :block/created-at 1670406592692,
+  :block/updated-at 1670406592692}
  {:block/name
   "@crack detection using image processing: a critical review and analysis",
-  :block/created-at 1665057021828,
-  :block/updated-at 1665057021828}
+  :block/created-at 1665298600486,
+  :block/updated-at 1665298600486}
  {:block/name
   "@deep learning and infrared thermography for asphalt pavement crack severity classification",
-  :block/created-at 1665057021626,
-  :block/updated-at 1665057021626}
+  :block/created-at 1665298600271,
+  :block/updated-at 1665298600271}
+ {:block/name "@dicoding indonesia",
+  :block/created-at 1665298597762,
+  :block/updated-at 1665298597762}
  {:block/name
   "@efficientnet: improving accuracy and efficiency through automl and model scaling",
-  :block/created-at 1665057021804,
-  :block/updated-at 1665057021804}
+  :block/created-at 1665298600448,
+  :block/updated-at 1665298600448}
+ {:block/name
+  "@everything we thought we knew about civil engineering improving the world is wrong",
+  :block/created-at 1667380902497,
+  :block/updated-at 1667380902497}
+ {:block/name "@fineness modulus - an overview",
+  :block/created-at 1666109798392,
+  :block/updated-at 1666109798392}
+ {:block/name "@fineness modulus - an overview | sciencedirect topics",
+  :block/created-at 1666109798373,
+  :block/updated-at 1666109798373}
+ {:block/name "@home",
+  :block/created-at 1668089549418,
+  :block/updated-at 1668089549418}
+ {:block/name
+  "@how to write a good argumentative essay: easy step-by-step guide - 2022",
+  :block/created-at 1665298598554,
+  :block/updated-at 1665298598554}
+ {:block/name
+  "@influence of air pollution factors on corrosion of metal equipment in transmission and transformation power stations",
+  :block/created-at 1670405074178,
+  :block/updated-at 1670405074178}
+ {:block/name "@irrigation management",
+  :block/created-at 1666153552249,
+  :block/updated-at 1666153572925}
+ {:block/name "@konteks data",
+  :block/created-at 1666109800968,
+  :block/updated-at 1666109800968}
+ {:block/name
+  "@konteks data | belajar dasar visualisasi data | dicoding indonesia",
+  :block/created-at 1665298596124,
+  :block/updated-at 1665298596124}
+ {:block/name "@modul 3 – rancangan campuran beton",
+  :block/created-at 1666109797548,
+  :block/updated-at 1666109797548}
+ {:block/name
+  "@perencanaan kantor kesyahbandaran dan otoritas pelabuhan khusus batam tahun anggaran 2020: spesifikasi teknis",
+  :block/created-at 1666109796759,
+  :block/updated-at 1666109796759}
+ {:block/name
+  "@practice for classification of soils for engineering purposes (unified soil classification system)",
+  :block/created-at 1666109799131,
+  :block/updated-at 1666109799131}
+ {:block/name "@price update - mypertamina",
+  :block/created-at 1668099986859,
+  :block/updated-at 1668099986859}
+ {:block/name "@production and properties of copper slag",
+  :block/created-at 1666109798333,
+  :block/updated-at 1666109798333}
+ {:block/name "@report on pervious concrete",
+  :block/created-at 1666362429930,
+  :block/updated-at 1666362476420}
+ {:block/name
+  "@rsni s-01-2003: spesifikasi aspal keras berdasarkan kekentalan",
+  :block/created-at 1666109796009,
+  :block/updated-at 1666109796009}
+ {:block/name
+  "@rsni s-01-2004: spesifikasi aspal keras berdasarkan kekentalan",
+  :block/created-at 1666109796740,
+  :block/updated-at 1666109796740}
+ {:block/name "@semen portland",
+  :block/created-at 1672677843439,
+  :block/updated-at 1672677843439}
+ {:block/name "@shield machine selection",
+  :block/created-at 1666419842979,
+  :block/updated-at 1666419842979}
+ {:block/name
+  "@standard method of test for effect of heat and air on a moving film of asphalt binder (rolling thin-film oven test)",
+  :block/created-at 1667283424303,
+  :block/updated-at 1667283424303}
+ {:block/name "@terminology for geosynthetics",
+  :block/created-at 1666109794579,
+  :block/updated-at 1666109794579}
+ {:block/name
+  "@test method for loss on heating of oil and asphaltic compounds",
+  :block/created-at 1667282251609,
+  :block/updated-at 1667282251609}
+ {:block/name
+  "@test method for permeability of granular soils (constant head)",
+  :block/created-at 1666194129786,
+  :block/updated-at 1666356126344}
+ {:block/name
+  "@test methods for specific gravity of soil solids by water pycnometer",
+  :block/created-at 1666109795310,
+  :block/updated-at 1666109795310}
+ {:block/name
+  "@the effect of silicone resin on the fuel oil corrosion resistance of asphalt mixture",
+  :block/created-at 1670402987903,
+  :block/updated-at 1670402987903}
+ {:block/name "@the mixed effects of precipitation on traffic crashes",
+  :block/created-at 1670381391408,
+  :block/updated-at 1670381391408}
+ {:block/name "@the physics of rubber elasticity: by l.r.g. treloar",
+  :block/created-at 1666109796748,
+  :block/updated-at 1666109796748}
+ {:block/name
+  "@the use of polidori's plasticity and activity charts in classifying some residual lateritic soils from nigeria",
+  :block/created-at 1665637254192,
+  :block/updated-at 1665637254192}
+ {:block/name "@the water encyclopedia",
+  :block/created-at 1666153449548,
+  :block/updated-at 1666153449548}
+ {:block/name
+  "@the water encyclopedia, third edition: hydrologic data and internet resources",
+  :block/created-at 1666115853498,
+  :block/updated-at 1666153458071}
+ {:block/name "@version control",
+  :block/created-at 1665298595228,
+  :block/updated-at 1665298595228}
+ {:block/name
+  "@weather-related construction delays in a changing climate: a systematic state-of-the-art review",
+  :block/created-at 1667381480274,
+  :block/updated-at 1667381480274}
+ {:block/name "@zotero snapshot with no css - google search",
+  :block/created-at 1665298596916,
+  :block/updated-at 1665298596916}
  {:block/name "a",
   :block/created-at 1656772671174,
   :block/updated-at 1656772671174}
+ {:block/name
+  "a review of vehicle fuel consumption models to evaluate eco-driving and eco-routing",
+  :block/created-at 1665298278040,
+  :block/updated-at 1665298278040}
  {:block/name "a-couple-of",
   :block/created-at 1665056105441,
   :block/updated-at 1665056260799}
  {:block/name "abdishakur",
   :block/created-at 1665057021726,
   :block/updated-at 1665057021726}
+ {:block/name "abel ojo talabi",
+  :block/created-at 1665637254305,
+  :block/updated-at 1665637254305}
  {:block/name "abstract",
   :block/created-at 1665057020656,
   :block/updated-at 1665057020656}
@@ -83,45 +252,126 @@
  {:block/name "age",
   :block/created-at 1665057022042,
   :block/updated-at 1665057022042}
+ {:block/name "age and gender dimensions in oslo",
+  :block/created-at 1665298011327,
+  :block/updated-at 1665298011327}
+ {:block/name "air pollution",
+  :block/created-at 1670406592699,
+  :block/updated-at 1670406592699}
+ {:block/name
+  "american association of state highway and transportation officials (aashto)",
+  :block/created-at 1667283424324,
+  :block/updated-at 1667283424324}
+ {:block/name "an easy way to work and visualize lidar data in python",
+  :block/created-at 1665298279373,
+  :block/updated-at 1665298279373}
+ {:block/name
+  "analisis penampang balok beton bertulang dengan penulangan tunggal",
+  :block/created-at 1677468369559,
+  :block/updated-at 1677507295681}
  {:block/name "angka pori",
   :block/created-at 1664336088385,
   :block/updated-at 1664351250688}
  {:block/name "angka pori (void ratio) ($e$)",
   :block/created-at 1664336200927,
   :block/updated-at 1664336200927}
+ {:block/name "appointment calendar for collaboration",
+  :block/created-at 1677303870270,
+  :block/updated-at 1677334729586}
+ {:block/name "apr 10th, 2023",
+  :block/created-at 1681103417578,
+  :block/updated-at 1681103417578}
+ {:block/name "apr 15th, 2023",
+  :block/created-at 1681571405030,
+  :block/updated-at 1681571405030}
+ {:block/name "apr 18th, 2023",
+  :block/created-at 1681824167467,
+  :block/updated-at 1681824167467}
+ {:block/name "apr 26th, 2023",
+  :block/created-at 1682503662369,
+  :block/updated-at 1682503662369}
+ {:block/name "apr 5th, 2023",
+  :block/created-at 1680699588330,
+  :block/updated-at 1680699599095}
+ {:block/name "apr 6th, 2023",
+  :block/created-at 1680714056971,
+  :block/updated-at 1680714056971}
+ {:block/name "apr 7th, 2023",
+  :block/created-at 1680815513890,
+  :block/updated-at 1680815513890}
  {:block/name "argumentative essay",
   :block/created-at 1664530717008,
-  :block/updated-at 1665057534431}
+  :block/updated-at 1671010292872}
  {:block/name "arun mohan",
   :block/created-at 1665057021831,
   :block/updated-at 1665057021831}
  {:block/name "asphalt pavement",
   :block/created-at 1665057021660,
   :block/updated-at 1665057021660}
+ {:block/name "asuri sridharan",
+  :block/created-at 1668649266375,
+  :block/updated-at 1668649266375}
  {:block/name "attachments",
   :block/created-at 1665057021240,
   :block/updated-at 1665057021240}
+ {:block/name "atterberg limits",
+  :block/created-at 1665637254295,
+  :block/updated-at 1665637254295}
+ {:block/name "aug 1st, 2021",
+  :block/created-at 1665637254301,
+  :block/updated-at 1665637254301}
  {:block/name "autonomousrail rapid transit",
   :block/created-at 1665057021763,
   :block/updated-at 1665057021763}
+ {:block/name "available for beta testing: improved webpage snapshots",
+  :block/created-at 1665298274904,
+  :block/updated-at 1665298274904}
  {:block/name "b",
   :block/created-at 1656772671174,
   :block/updated-at 1656772671174}
+ {:block/name "badan standardisasi nasional",
+  :block/created-at 1666109796012,
+  :block/updated-at 1666109796012}
+ {:block/name "balsa bridge competition: co",
+  :block/created-at 1675589028758,
+  :block/updated-at 1675598440291}
  {:block/name "beam",
   :block/created-at 1663732896350,
   :block/updated-at 1663732896350}
  {:block/name "bebanmerata",
   :block/created-at 1663731031909,
   :block/updated-at 1663731031909}
+ {:block/name "belajar dasar visualisasi data",
+  :block/created-at 1665297727299,
+  :block/updated-at 1665297727299}
+ {:block/name "berat jenis tanah",
+  :block/created-at 1666105207839,
+  :block/updated-at 1666105207839}
+ {:block/name "bercerita dengan data",
+  :block/created-at 1665313632204,
+  :block/updated-at 1665317957718}
+ {:block/name "berenice m. toralles",
+  :block/created-at 1666356383563,
+  :block/updated-at 1666356383563}
  {:block/name "bike sharing",
   :block/created-at 1665057022042,
   :block/updated-at 1665057022042}
+ {:block/name
+  "bike sharing use in conjunction to public transport: exploring spatiotemporal",
+  :block/created-at 1665298011327,
+  :block/updated-at 1665298011327}
  {:block/name "blender",
   :block/created-at 1656855343221,
-  :block/updated-at 1656855343221}
+  :block/updated-at 1665292188163}
+ {:block/name "blockchain",
+  :block/created-at 1665312288967,
+  :block/updated-at 1665312288967}
  {:block/name "blue",
   :block/created-at 1664315548019,
   :block/updated-at 1664315548019}
+ {:block/name "book",
+  :block/created-at 1666109796740,
+  :block/updated-at 1666109796740}
  {:block/name "booksection",
   :block/created-at 1665057021766,
   :block/updated-at 1665057021766}
@@ -131,12 +381,34 @@
  {:block/name "c",
   :block/created-at 1656772671174,
   :block/updated-at 1656772671174}
+ {:block/name
+  "c:\\users\\damar\\onedrive%20-%20universitas%20muhammadiyah%20yogyakarta(0",
+  :block/created-at 1666109796423,
+  :block/updated-at 1666109796423}
+ {:block/name "ca weiss jr",
+  :block/created-at 1666362468913,
+  :block/updated-at 1666362468913}
  {:block/name "card",
   :block/created-at 1656772671174,
   :block/updated-at 1656772671174}
+ {:block/name "chao qun lye",
+  :block/created-at 1666109798363,
+  :block/updated-at 1666109798363}
+ {:block/name "chatgpt",
+  :block/created-at 1682928338698,
+  :block/updated-at 1682928360346}
  {:block/name "chengdong li",
   :block/created-at 1665057022007,
   :block/updated-at 1665057022007}
+ {:block/name "clay fractions",
+  :block/created-at 1665637254297,
+  :block/updated-at 1665637254297}
+ {:block/name "clay soil",
+  :block/created-at 1665635097038,
+  :block/updated-at 1665638781940}
+ {:block/name "climate change",
+  :block/created-at 1670406592701,
+  :block/updated-at 1670406592701}
  {:block/name "communication system",
   :block/created-at 1665057021764,
   :block/updated-at 1665057021764}
@@ -145,19 +417,29 @@
   :block/updated-at 1663732972052}
  {:block/name "compulsory",
   :block/created-at 1656854766123,
-  :block/updated-at 1664529772801}
+  :block/updated-at 1677466523584}
  {:block/name "concrete damage",
   :block/created-at 1665057022003,
   :block/updated-at 1665057022003}
  {:block/name "concrete techonology",
   :block/created-at 1663734399511,
-  :block/updated-at 1663734399511}
+  :block/updated-at 1672677932262}
+ {:block/name "cong zhang",
+  :block/created-at 1666419843012,
+  :block/updated-at 1666419843012}
  {:block/name "contents",
   :block/created-at 1656772671174,
   :block/updated-at 1664372269265}
+ {:block/name "contracted",
+  :block/created-at 1677603594477,
+  :block/updated-at 1677603594477}
  {:block/name "crack detection",
   :block/created-at 1665057021829,
   :block/updated-at 1665057021829}
+ {:block/name
+  "crack detection using image processing: a critical review and analysis",
+  :block/created-at 1665298279565,
+  :block/updated-at 1665298279565}
  {:block/name "crack severity classification",
   :block/created-at 1665057021661,
   :block/updated-at 1665057021661}
@@ -167,18 +449,72 @@
  {:block/name "d k killinger",
   :block/created-at 1665057021953,
   :block/updated-at 1665057021953}
+ {:block/name "d08 committee",
+  :block/created-at 1667282251634,
+  :block/updated-at 1667282251634}
+ {:block/name "d18 committee",
+  :block/created-at 1666109795327,
+  :block/updated-at 1666109795327}
+ {:block/name "d35 committee",
+  :block/created-at 1666109794598,
+  :block/updated-at 1666109794598}
  {:block/name "dandan pang",
   :block/created-at 1665057022007,
   :block/updated-at 1665057022007}
+ {:block/name "daniel eisenberg",
+  :block/created-at 1670381391463,
+  :block/updated-at 1670381391463}
  {:block/name "dasar spreadsheet",
   :block/created-at 1665129763767,
   :block/updated-at 1665129763767}
  {:block/name "dasar visualisasi data",
   :block/created-at 1665126034126,
-  :block/updated-at 1665129991864}
+  :block/updated-at 1665318464948}
+ {:block/name "data analysis",
+  :block/created-at 1665292261572,
+  :block/updated-at 1665292261572}
+ {:block/name "dec 10th, 2022",
+  :block/created-at 1670652342980,
+  :block/updated-at 1670652342980}
+ {:block/name "dec 14th, 2022",
+  :block/created-at 1671009761020,
+  :block/updated-at 1671009761020}
+ {:block/name "dec 17th, 2022",
+  :block/created-at 1671277817779,
+  :block/updated-at 1671277817779}
+ {:block/name "dec 19th, 2022",
+  :block/created-at 1671444731501,
+  :block/updated-at 1671444731501}
  {:block/name "dec 1st, 2016",
   :block/created-at 1665057020645,
   :block/updated-at 1665057020645}
+ {:block/name "dec 20th, 2022",
+  :block/created-at 1671525959182,
+  :block/updated-at 1671525959182}
+ {:block/name "dec 21st, 2022",
+  :block/created-at 1671555601977,
+  :block/updated-at 1671555601977}
+ {:block/name "dec 26th, 2022",
+  :block/created-at 1672059220785,
+  :block/updated-at 1672059220785}
+ {:block/name "dec 27th, 2022",
+  :block/created-at 1672144806790,
+  :block/updated-at 1672144806790}
+ {:block/name "dec 28th, 2022",
+  :block/created-at 1672207451628,
+  :block/updated-at 1672207477016}
+ {:block/name "dec 31st, 2022",
+  :block/created-at 1672466832746,
+  :block/updated-at 1672466832746}
+ {:block/name "dec 6th, 2022",
+  :block/created-at 1670337865084,
+  :block/updated-at 1670337865084}
+ {:block/name "dec 7th, 2022",
+  :block/created-at 1670346001577,
+  :block/updated-at 1670346001577}
+ {:block/name "dec 9th, 2022",
+  :block/created-at 1670555487140,
+  :block/updated-at 1670556651146}
  {:block/name "deep learning",
   :block/created-at 1665057021661,
   :block/updated-at 1665057021661}
@@ -194,12 +530,27 @@
  {:block/name "derajat kejenuhan",
   :block/created-at 1664336683299,
   :block/updated-at 1664336683395}
+ {:block/name "dicoding indonesia",
+  :block/created-at 1665298275888,
+  :block/updated-at 1665298275888}
+ {:block/name "dilated",
+  :block/created-at 1677603594477,
+  :block/updated-at 1677603594477}
+ {:block/name "direct shear test",
+  :block/created-at 1677576788791,
+  :block/updated-at 1677611450763}
+ {:block/name "dj wade",
+  :block/created-at 1666362468912,
+  :block/updated-at 1666362468912}
  {:block/name "document",
   :block/created-at 1665057021726,
   :block/updated-at 1665057021726}
  {:block/name "doing",
   :block/created-at 1656772671174,
   :block/updated-at 1656772671174}
+ {:block/name "dokumentasi data",
+  :block/created-at 1665292463896,
+  :block/updated-at 1665317919294}
  {:block/name "done",
   :block/created-at 1656772671174,
   :block/updated-at 1656772671174}
@@ -209,18 +560,34 @@
  {:block/name "dua dimensi",
   :block/created-at 1664178311965,
   :block/updated-at 1664178311965}
+ {:block/name "elastic properties",
+  :block/created-at 1666109796749,
+  :block/updated-at 1666109796749}
  {:block/name "ellinor anderson",
   :block/created-at 1665057022045,
   :block/updated-at 1665057022045}
+ {:block/name "encyclopediaarticle",
+  :block/created-at 1665298006453,
+  :block/updated-at 1665298006453}
  {:block/name "engineering maths",
   :block/created-at 1656855162278,
   :block/updated-at 1656855162278}
  {:block/name "english for academic writing",
   :block/created-at 1664529772800,
   :block/updated-at 1664530717008}
+ {:block/name "environmental health",
+  :block/created-at 1670406592702,
+  :block/updated-at 1670406592702}
  {:block/name "error budget analysis",
   :block/created-at 1665057021889,
   :block/updated-at 1665057021889}
+ {:block/name "et propulsion laboratory ",
+  :block/created-at 1668102210505,
+  :block/updated-at 1668102210505}
+ {:block/name
+  "et propulsion laboratory / national aeronautics and space administration",
+  :block/created-at 1668089549446,
+  :block/updated-at 1668089549446}
  {:block/name "evening reflections",
   :block/created-at 1663433787084,
   :block/updated-at 1663433787084}
@@ -230,6 +597,12 @@
  {:block/name "fangyu liu",
   :block/created-at 1665057021663,
   :block/updated-at 1665057021663}
+ {:block/name "fat, calorie, and obesity",
+  :block/created-at 1680701492380,
+  :block/updated-at 1680702116541}
+ {:block/name "fatal crashes",
+  :block/created-at 1670381391459,
+  :block/updated-at 1670381391459}
  {:block/name "favorites",
   :block/created-at 1656772671174,
   :block/updated-at 1656772671174}
@@ -239,6 +612,42 @@
  {:block/name "feature reconstruction",
   :block/created-at 1665057021890,
   :block/updated-at 1665057021890}
+ {:block/name "feb 16th, 2023",
+  :block/created-at 1676529286155,
+  :block/updated-at 1676529847842}
+ {:block/name "feb 19th, 2022",
+  :block/created-at 1667380902539,
+  :block/updated-at 1667380902539}
+ {:block/name "feb 25th, 2023",
+  :block/created-at 1677303840327,
+  :block/updated-at 1677303870272}
+ {:block/name "feb 27th, 2023",
+  :block/created-at 1677465711021,
+  :block/updated-at 1677465711021}
+ {:block/name "feb 28th, 2023",
+  :block/created-at 1677576726187,
+  :block/updated-at 1677576726187}
+ {:block/name "feb 5th, 2007",
+  :block/created-at 1666153449547,
+  :block/updated-at 1666153449547}
+ {:block/name "feb 5th, 2023",
+  :block/created-at 1675588975491,
+  :block/updated-at 1675589028760}
+ {:block/name "feb 7th, 2023",
+  :block/created-at 1675764317532,
+  :block/updated-at 1675764317532}
+ {:block/name "feb 8th, 2023",
+  :block/created-at 1675854362939,
+  :block/updated-at 1675854362939}
+ {:block/name "fengchun liu",
+  :block/created-at 1670405074280,
+  :block/updated-at 1670405074280}
+ {:block/name "figure–ground",
+  :block/created-at 1665291211823,
+  :block/updated-at 1665319277561}
+ {:block/name "fineness modulus - an overview",
+  :block/created-at 1666109798393,
+  :block/updated-at 1666109798393}
  {:block/name "fuel consumption models",
   :block/created-at 1665057020643,
   :block/updated-at 1665057020643}
@@ -254,6 +663,24 @@
  {:block/name "gender",
   :block/created-at 1665057022043,
   :block/updated-at 1665057022043}
+ {:block/name "geotechnic investigation",
+  :block/created-at 1677466523583,
+  :block/updated-at 1677576788791}
+ {:block/name "gersson f.b. sandoval",
+  :block/created-at 1666356383560,
+  :block/updated-at 1666356383560}
+ {:block/name "gesalt principle dalam persepsi visual",
+  :block/created-at 1665498065608,
+  :block/updated-at 1665499316415}
+ {:block/name "gestalt psychology",
+  :block/created-at 1665319277559,
+  :block/updated-at 1665319277559}
+ {:block/name "giovanni spagnoli",
+  :block/created-at 1668649266373,
+  :block/updated-at 1668649266373}
+ {:block/name "git",
+  :block/created-at 1665295196756,
+  :block/updated-at 1665295196756}
  {:block/name "gluteal sulcus",
   :block/created-at 1665191628366,
   :block/updated-at 1665196985083}
@@ -263,28 +690,74 @@
  {:block/name "gratitude",
   :block/created-at 1663433787065,
   :block/updated-at 1663433787065}
+ {:block/name "hanbing yan",
+  :block/created-at 1670405074280,
+  :block/updated-at 1670405074280}
+ {:block/name "hanping zhang",
+  :block/created-at 1670405074279,
+  :block/updated-at 1670405074279}
  {:block/name "hardware structure",
   :block/created-at 1665057021764,
   :block/updated-at 1665057021764}
+ {:block/name "health",
+  :block/created-at 1680866653665,
+  :block/updated-at 1680866653665}
+ {:block/name "health 101",
+  :block/created-at 1680699599095,
+  :block/updated-at 1681571454137}
+ {:block/name
+  "hls__afolagboye et al. - 2021 - the use of polidori's plasticity and activity char",
+  :block/created-at 1665637917348,
+  :block/updated-at 1665637917348}
  {:block/name "hls__bab2_2.1_2.2_2.3_1664297400197_0",
   :block/created-at 1664300240194,
   :block/updated-at 1664300240194}
+ {:block/name "hls__d_3080_–_03_;rdmwoda_1677611085099_0",
+  :block/created-at 1677611405904,
+  :block/updated-at 1677611405904}
  {:block/name
   "hls__structural_and_stress_analysis_(t.h.g._megson_(auth.))_(z-lib.org)_1662788805123_0",
   :block/created-at 1662788879604,
   :block/updated-at 1662788879604}
+ {:block/name "how excess calories stored as fat",
+  :block/created-at 1680702116541,
+  :block/updated-at 1680702289436}
+ {:block/name
+  "how to write a good argumentative essay: easy step-by-step guide - 2022",
+  :block/created-at 1665298276826,
+  :block/updated-at 1665298276826}
  {:block/name "https://lottiefiles.com/120096-ai-assistant-animation",
   :block/created-at 1664365951587,
   :block/updated-at 1664365951587}
+ {:block/name
+  "https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/metadata",
+  :block/created-at 1665293830821,
+  :block/updated-at 1665293830821}
  {:block/name "hui jin",
   :block/created-at 1665057020646,
   :block/updated-at 1665057020646}
  {:block/name "hui liu",
   :block/created-at 1665057021767,
   :block/updated-at 1665057021767}
+ {:block/name "hukum udara & ruang angkasa",
+  :block/created-at 1683542695188,
+  :block/updated-at 1683547745548}
  {:block/name "hydrology",
   :block/created-at 1664172153722,
   :block/updated-at 1664172277515}
+ {:block/name
+  "i don't blame the dirt for wanting to shimmer. i blame the water for thinking it's too good to make mud",
+  :block/created-at 1682928360346,
+  :block/updated-at 1682928485342}
+ {:block/name "ian townsend",
+  :block/created-at 1667984973371,
+  :block/updated-at 1667984973371}
+ {:block/name "idea",
+  :block/created-at 1676532903312,
+  :block/updated-at 1676532903312}
+ {:block/name "illustration",
+  :block/created-at 1676532903312,
+  :block/updated-at 1676532903312}
  {:block/name "image classification",
   :block/created-at 1665057022004,
   :block/updated-at 1665057022004}
@@ -306,6 +779,39 @@
  {:block/name "infrared thermography",
   :block/created-at 1665057021662,
   :block/updated-at 1665057021662}
+ {:block/name "isaac galobardes",
+  :block/created-at 1666356383561,
+  :block/updated-at 1666356383561}
+ {:block/name "jan 12th, 2023",
+  :block/created-at 1673486858650,
+  :block/updated-at 1673486858650}
+ {:block/name "jan 13th, 2023",
+  :block/created-at 1673622984055,
+  :block/updated-at 1673622984055}
+ {:block/name "jan 14th, 2023",
+  :block/created-at 1673629204192,
+  :block/updated-at 1673629204192}
+ {:block/name "jan 19th, 2023",
+  :block/created-at 1674108608936,
+  :block/updated-at 1674108608936}
+ {:block/name "jan 1st, 2023",
+  :block/created-at 1672517363809,
+  :block/updated-at 1672517363809}
+ {:block/name "jan 29th, 2023",
+  :block/created-at 1674936313111,
+  :block/updated-at 1674936313111}
+ {:block/name "jan 2nd, 2023",
+  :block/created-at 1672660936756,
+  :block/updated-at 1672677915439}
+ {:block/name "jan 3rd, 2023",
+  :block/created-at 1672678856400,
+  :block/updated-at 1672678856400}
+ {:block/name "jan 5th, 2023",
+  :block/created-at 1672886869243,
+  :block/updated-at 1672886869243}
+ {:block/name "jan 7th, 2023",
+  :block/created-at 1673104545294,
+  :block/updated-at 1673628755204}
  {:block/name "jen-yu han",
   :block/created-at 1665057021893,
   :block/updated-at 1665057021893}
@@ -315,12 +821,21 @@
  {:block/name "jian liu",
   :block/created-at 1665057021664,
   :block/updated-at 1665057021664}
+ {:block/name "jinyang fu",
+  :block/created-at 1666419843012,
+  :block/updated-at 1666419843012}
+ {:block/name "jorge de brito",
+  :block/created-at 1666109798362,
+  :block/updated-at 1666109798362}
  {:block/name "journalarticle",
   :block/created-at 1665057020645,
   :block/updated-at 1665057020645}
  {:block/name "jul 11th, 2022",
   :block/created-at 1657535342079,
   :block/updated-at 1657535389658}
+ {:block/name "jul 1st, 2004",
+  :block/created-at 1670381391462,
+  :block/updated-at 1670381391462}
  {:block/name "jul 2nd, 2022",
   :block/created-at 1656708062584,
   :block/updated-at 1656708062584}
@@ -330,13 +845,55 @@
  {:block/name "jul 4th, 2022",
   :block/created-at 1656867628601,
   :block/updated-at 1656867628601}
+ {:block/name "jun 29th, 2022",
+  :block/created-at 1670405074272,
+  :block/updated-at 1670405074272}
+ {:block/name "junsheng yang",
+  :block/created-at 1666419843014,
+  :block/updated-at 1666419843014}
+ {:block/name "justin d. delorit",
+  :block/created-at 1667381480287,
+  :block/updated-at 1667381480287}
+ {:block/name "kaggle",
+  :block/created-at 1665293788544,
+  :block/updated-at 1665293788544}
  {:block/name "kai-di lu",
   :block/created-at 1665057021821,
   :block/updated-at 1665057021821}
+ {:block/name "kehilangan berat minyak aspal",
+  :block/created-at 1667278615087,
+  :block/updated-at 1667315934780}
+ {:block/name "kesalahan umum dalam visualisasi data",
+  :block/created-at 1665289767481,
+  :block/updated-at 1665317888317}
+ {:block/name "kiss (keep it simple stupid)",
+  :block/created-at 1665318464947,
+  :block/updated-at 1665318464947}
+ {:block/name "konteks data",
+  :block/created-at 1665297727298,
+  :block/updated-at 1665297727298}
  {:block/name
   "konteks data | belajar dasar visualisasi data | dicoding indonesia",
-  :block/created-at 1665126184257,
-  :block/updated-at 1665126184257}
+  :block/created-at 1665298273787,
+  :block/updated-at 1665298273787}
+ {:block/name "kpm",
+  :block/created-at 1667964616030,
+  :block/updated-at 1672467660689}
+ {:block/name "kpm@23",
+  :block/created-at 1673627622733,
+  :block/updated-at 1673627622733}
+ {:block/name "kpmesc23",
+  :block/created-at 1673627622732,
+  :block/updated-at 1673627622732}
+ {:block/name "kuliah umum ama professor daisuke yamamoto",
+  :block/created-at 1672207477013,
+  :block/updated-at 1672216847197}
+ {:block/name "l. r. g. treloar",
+  :block/created-at 1666109796750,
+  :block/updated-at 1666109796750}
+ {:block/name "lagged effects",
+  :block/created-at 1670381391459,
+  :block/updated-at 1670381391459}
  {:block/name "lars böcker",
   :block/created-at 1665057022045,
   :block/updated-at 1665057022045}
@@ -349,6 +906,12 @@
  {:block/name "later",
   :block/created-at 1656772671174,
   :block/updated-at 1656772671174}
+ {:block/name "lekan olatayo afolagboye",
+  :block/created-at 1665637254304,
+  :block/updated-at 1665637254304}
+ {:block/name "leonardo angelo de aquino",
+  :block/created-at 1666153564294,
+  :block/updated-at 1666153564294}
  {:block/name "li-ion battery 101",
   :block/created-at 1657535389657,
   :block/updated-at 1657535963309}
@@ -370,15 +933,72 @@
  {:block/name "linear",
   :block/created-at 1664173039286,
   :block/updated-at 1664173039286}
+ {:block/name "ling pang",
+  :block/created-at 1670402987960,
+  :block/updated-at 1670402987960}
+ {:block/name "liquid limit",
+  :block/created-at 1668648915025,
+  :block/updated-at 1668648915025}
+ {:block/name "logseq://graph/logseq?page=plasticity%20chart",
+  :block/created-at 1665637679478,
+  :block/updated-at 1665637679478}
  {:block/name "luas penampang",
   :block/created-at 1664177520331,
   :block/updated-at 1664177520331}
+ {:block/name "lucio di matteo",
+  :block/created-at 1668649266377,
+  :block/updated-at 1668649266377}
  {:block/name "machine learning",
   :block/created-at 1665126007283,
-  :block/updated-at 1665206621357}
+  :block/updated-at 1665499410017}
  {:block/name "mandatory",
   :block/created-at 1656855303421,
-  :block/updated-at 1665191601325}
+  :block/updated-at 1672466982870}
+ {:block/name "mar 11th, 2023",
+  :block/created-at 1678528444618,
+  :block/updated-at 1678528444618}
+ {:block/name "mar 18th, 2023",
+  :block/created-at 1679146569241,
+  :block/updated-at 1679146569241}
+ {:block/name "mar 1st, 1983",
+  :block/created-at 1667984973368,
+  :block/updated-at 1667984973368}
+ {:block/name "mar 1st, 2023",
+  :block/created-at 1677603602711,
+  :block/updated-at 1677603602711}
+ {:block/name "mar 2nd, 2023",
+  :block/created-at 1677690050998,
+  :block/updated-at 1677690050998}
+ {:block/name "mar 6th, 2021",
+  :block/created-at 1667381480281,
+  :block/updated-at 1667381480281}
+ {:block/name "mar 7th, 2023",
+  :block/created-at 1678132480476,
+  :block/updated-at 1678132480476}
+ {:block/name "mar 8th, 2023",
+  :block/created-at 1678208404981,
+  :block/updated-at 1678208404981}
+ {:block/name "materials fundamentals",
+  :block/created-at 1666504698046,
+  :block/updated-at 1668433612793}
+ {:block/name "mathew r. nicholson",
+  :block/created-at 1667381480286,
+  :block/updated-at 1667381480286}
+ {:block/name "matthew a offenberg",
+  :block/created-at 1666362468911,
+  :block/updated-at 1666362468911}
+ {:block/name "may 1st, 2023",
+  :block/created-at 1682928305864,
+  :block/updated-at 1682928338699}
+ {:block/name "may 2nd, 2023",
+  :block/created-at 1682960418434,
+  :block/updated-at 1682960418434}
+ {:block/name "may 3rd, 2023",
+  :block/created-at 1683046819902,
+  :block/updated-at 1683119935972}
+ {:block/name "may 8th, 2023",
+  :block/created-at 1683542695189,
+  :block/updated-at 1683542695189}
  {:block/name "mechanics of materials",
   :block/created-at 1664173074868,
   :block/updated-at 1664317056215}
@@ -387,7 +1007,7 @@
   :block/updated-at 1665057021830}
  {:block/name "medical",
   :block/created-at 1665191601323,
-  :block/updated-at 1665191601323}
+  :block/updated-at 1665292198930}
  {:block/name "meeting notes",
   :block/created-at 1663433787077,
   :block/updated-at 1663433787077}
@@ -397,6 +1017,12 @@
  {:block/name "meng-ju tsai",
   :block/created-at 1665057021893,
   :block/updated-at 1665057021893}
+ {:block/name "menghilangkan elemen yang rumit",
+  :block/created-at 1665499399971,
+  :block/updated-at 1665500590476}
+ {:block/name "metadata",
+  :block/created-at 1665293394971,
+  :block/updated-at 1665293556163}
  {:block/name "metode integrasi ganda",
   :block/created-at 1663733762904,
   :block/updated-at 1664316542189}
@@ -415,18 +1041,135 @@
  {:block/name "morning pages",
   :block/created-at 1663433787062,
   :block/updated-at 1663433787062}
+ {:block/name "márcio mota ramos",
+  :block/created-at 1666153564293,
+  :block/updated-at 1666153564293}
+ {:block/name "n",
+  :block/created-at 1685339972982,
+  :block/updated-at 1685339982485}
  {:block/name "navigation system",
   :block/created-at 1665057021765,
   :block/updated-at 1665057021765}
  {:block/name "neon",
   :block/created-at 1664315587001,
   :block/updated-at 1664315587001}
+ {:block/name "norway",
+  :block/created-at 1665298011328,
+  :block/updated-at 1665298011328}
+ {:block/name "nov 10th, 2022",
+  :block/created-at 1668013224469,
+  :block/updated-at 1668013224469}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668099603100,
+  :block/updated-at 1668099603100}
+ {:block/name "nov 12th, 2022",
+  :block/created-at 1668196657768,
+  :block/updated-at 1668196657768}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668272402980,
+  :block/updated-at 1668272402980}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668433363590,
+  :block/updated-at 1668433363590}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668445240031,
+  :block/updated-at 1668445240031}
+ {:block/name "nov 17th, 2022",
+  :block/created-at 1668648720129,
+  :block/updated-at 1668648720129}
+ {:block/name "nov 18th, 2022",
+  :block/created-at 1668735479928,
+  :block/updated-at 1668735479928}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667278588479,
+  :block/updated-at 1667278588479}
+ {:block/name "nov 20th, 2022",
+  :block/created-at 1668931247256,
+  :block/updated-at 1668931247256}
+ {:block/name "nov 23rd, 2022",
+  :block/created-at 1669189750816,
+  :block/updated-at 1669189750816}
+ {:block/name "nov 24th, 2022",
+  :block/created-at 1669222802177,
+  :block/updated-at 1669222802177}
+ {:block/name "nov 29th, 2022",
+  :block/created-at 1669672349711,
+  :block/updated-at 1669672349711}
+ {:block/name "nov 2nd, 2022",
+  :block/created-at 1667379892435,
+  :block/updated-at 1667379892435}
+ {:block/name "nov 30th, 2022",
+  :block/created-at 1669741220152,
+  :block/updated-at 1669741220152}
+ {:block/name "nov 3rd, 2022",
+  :block/created-at 1667408403888,
+  :block/updated-at 1667408403888}
+ {:block/name "nov 4th, 2022",
+  :block/created-at 1667540591985,
+  :block/updated-at 1667540591985}
+ {:block/name "nov 5th, 2022",
+  :block/created-at 1667581200868,
+  :block/updated-at 1667581200868}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667673053591,
+  :block/updated-at 1667673053591}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667919275564,
+  :block/updated-at 1667919423598}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1667930075080,
+  :block/updated-at 1667930075080}
  {:block/name "now",
   :block/created-at 1656772671174,
   :block/updated-at 1656772671174}
  {:block/name "object detection",
   :block/created-at 1665057022004,
   :block/updated-at 1665057022004}
+ {:block/name "oct 10th, 2022",
+  :block/created-at 1665361749826,
+  :block/updated-at 1665361749826}
+ {:block/name "oct 11th, 2022",
+  :block/created-at 1665421220744,
+  :block/updated-at 1665421220744}
+ {:block/name "oct 13th, 2022",
+  :block/created-at 1665634829864,
+  :block/updated-at 1665640190491}
+ {:block/name "oct 14th, 2022",
+  :block/created-at 1665698619865,
+  :block/updated-at 1665698619865}
+ {:block/name "oct 17th, 2022",
+  :block/created-at 1665973150738,
+  :block/updated-at 1665973150738}
+ {:block/name "oct 18th, 2022",
+  :block/created-at 1666027119781,
+  :block/updated-at 1666027119781}
+ {:block/name "oct 19th, 2022",
+  :block/created-at 1666112403512,
+  :block/updated-at 1666112403512}
+ {:block/name "oct 20th, 2022",
+  :block/created-at 1666219925379,
+  :block/updated-at 1666219925379}
+ {:block/name "oct 21st, 2022",
+  :block/created-at 1666343175783,
+  :block/updated-at 1666343175783}
+ {:block/name "oct 22nd, 2022",
+  :block/created-at 1666371604601,
+  :block/updated-at 1666371604601}
+ {:block/name "oct 23rd, 2022",
+  :block/created-at 1666489795666,
+  :block/updated-at 1666489795666}
+ {:block/name "oct 24th, 2022",
+  :block/created-at 1666591954036,
+  :block/updated-at 1666616027009}
+ {:block/name "oct 25th, 2022",
+  :block/created-at 1666665677950,
+  :block/updated-at 1666665677950}
+ {:block/name "oct 28th, 2022",
+  :block/created-at 1670402987957,
+  :block/updated-at 1670402987957}
+ {:block/name "oct 29th, 2022",
+  :block/created-at 1667051380143,
+  :block/updated-at 1667051380143}
  {:block/name "oct 5th, 2022",
   :block/created-at 1664954910618,
   :block/updated-at 1664954910618}
@@ -439,6 +1182,12 @@
  {:block/name "oct 8th, 2022",
   :block/created-at 1665191572098,
   :block/updated-at 1665191572098}
+ {:block/name "oct 9th, 2022",
+  :block/created-at 1665289717260,
+  :block/updated-at 1665289717260}
+ {:block/name "olubunmi oluwadare owoyemi",
+  :block/created-at 1665637254305,
+  :block/updated-at 1665637254305}
  {:block/name "one thing to remember",
   :block/created-at 1663433787068,
   :block/updated-at 1663433787068}
@@ -451,21 +1200,98 @@
  {:block/name "pedestrian detection algorithm",
   :block/created-at 1665057021765,
   :block/updated-at 1665057021765}
+ {:block/name
+  "pemeriksaan berat jenis dan penyerapan air agregat kasar (kerikil)",
+  :block/created-at 1666665768712,
+  :block/updated-at 1666672664370}
+ {:block/name "pengujian pada kayu",
+  :block/created-at 1668433612790,
+  :block/updated-at 1668433820744}
+ {:block/name "pentingnya dokumentasi data",
+  :block/created-at 1665312071749,
+  :block/updated-at 1665313612195}
  {:block/name "perkolasi",
   :block/created-at 1664172490125,
   :block/updated-at 1664172490125}
+ {:block/name "pertamina",
+  :block/created-at 1668099986879,
+  :block/updated-at 1668099986879}
+ {:block/name "pierpaolo oreste",
+  :block/created-at 1668649266376,
+  :block/updated-at 1668649266376}
  {:block/name "pink",
   :block/created-at 1664315552270,
   :block/updated-at 1664315552270}
+ {:block/name "plasticity chart",
+  :block/created-at 1665635818293,
+  :block/updated-at 1665638032181}
+ {:block/name "plasticity charts",
+  :block/created-at 1666109799221,
+  :block/updated-at 1666109799221}
  {:block/name "porositas",
   :block/created-at 1664336293025,
   :block/updated-at 1664336293085}
+ {:block/name "praktikum batas plastis",
+  :block/created-at 1668648884808,
+  :block/updated-at 1668649266452}
+ {:block/name "praktikum berat jenis",
+  :block/created-at 1666105325138,
+  :block/updated-at 1671557514765}
+ {:block/name "praktikum ilmu bahan",
+  :block/created-at 1666504726340,
+  :block/updated-at 1667278615090}
+ {:block/name "praktikum permeabilitas tanah",
+  :block/created-at 1666193302961,
+  :block/updated-at 1668649534702}
+ {:block/name "praktikum uji penetrasi (daktilitas)",
+  :block/created-at 1666504792170,
+  :block/updated-at 1666504816369}
+ {:block/name "precipitation",
+  :block/created-at 1670381391460,
+  :block/updated-at 1670381391460}
+ {:block/name "psychology",
+  :block/created-at 1665291237377,
+  :block/updated-at 1665291237377}
+ {:block/name "pt asrimadya tuah karya (konsultan perencana)",
+  :block/created-at 1666109796760,
+  :block/updated-at 1666109796760}
+ {:block/name "public health",
+  :block/created-at 1670406592703,
+  :block/updated-at 1670406592703}
  {:block/name "public transport",
   :block/created-at 1665057022044,
   :block/updated-at 1665057022044}
+ {:block/name "published",
+  :block/created-at 1683545392093,
+  :block/updated-at 1683545401136}
  {:block/name "purple",
   :block/created-at 1664315548017,
   :block/updated-at 1664315548017}
+ {:block/name
+  "pusdiklat jalan, perumahan, permukiman dan pengembangan infrastruktur wilayah",
+  :block/created-at 1666109797563,
+  :block/updated-at 1666109797563}
+ {:block/name "rain",
+  :block/created-at 1670381391461,
+  :block/updated-at 1670381391461}
+ {:block/name "raman mangabhai",
+  :block/created-at 1666109798362,
+  :block/updated-at 1666109798362}
+ {:block/name "raquel s. teixeira",
+  :block/created-at 1666356383562,
+  :block/updated-at 1666356383562}
+ {:block/name "ravindra k. dhir",
+  :block/created-at 1666109798361,
+  :block/updated-at 1666109798361}
+ {:block/name "readme",
+  :block/created-at 1683545201192,
+  :block/updated-at 1683545201192}
+ {:block/name "report",
+  :block/created-at 1666109794597,
+  :block/updated-at 1666109794597}
+ {:block/name "research23",
+  :block/created-at 1673627689457,
+  :block/updated-at 1673627689457}
  {:block/name "road surface features",
   :block/created-at 1665057021890,
   :block/updated-at 1665057021890}
@@ -475,12 +1301,27 @@
  {:block/name "rotasi",
   :block/created-at 1663731035296,
   :block/updated-at 1663731035296}
+ {:block/name "rubber",
+  :block/created-at 1666109796749,
+  :block/updated-at 1666109796749}
+ {:block/name "rubens alves de oliveira",
+  :block/created-at 1666153564292,
+  :block/updated-at 1666153564292}
+ {:block/name "rubin's vase-face",
+  :block/created-at 1665498627125,
+  :block/updated-at 1665498627125}
  {:block/name "scheduling management system",
   :block/created-at 1665057021766,
   :block/updated-at 1665057021766}
+ {:block/name "sciencedirect topics",
+  :block/created-at 1666109798392,
+  :block/updated-at 1666109798392}
  {:block/name "segmentation",
   :block/created-at 1665057021831,
   :block/updated-at 1665057021831}
+ {:block/name "semen portland",
+  :block/created-at 1672677932261,
+  :block/updated-at 1672678385161}
  {:block/name "sentences",
   :block/created-at 1664530590907,
   :block/updated-at 1664530590907}
@@ -526,15 +1367,39 @@
  {:block/name "sep 4th, 2022",
   :block/created-at 1662278446565,
   :block/updated-at 1662278446565}
+ {:block/name "shan tu",
+  :block/created-at 1670405074281,
+  :block/updated-at 1670405074281}
+ {:block/name "shi xu",
+  :block/created-at 1670402987962,
+  :block/updated-at 1670402987962}
+ {:block/name "shuying wang",
+  :block/created-at 1666419843011,
+  :block/updated-at 1666419843011}
+ {:block/name "silt soil",
+  :block/created-at 1665638258392,
+  :block/updated-at 1665638518245}
+ {:block/name "software engineering",
+  :block/created-at 1665295196757,
+  :block/updated-at 1665295196757}
+ {:block/name "soil classification",
+  :block/created-at 1665634909928,
+  :block/updated-at 1665640116635}
  {:block/name "soil mechanic fundamentals",
   :block/created-at 1664296764980,
-  :block/updated-at 1664306343917}
+  :block/updated-at 1668648884810}
  {:block/name "ssd network",
   :block/created-at 1665057022005,
   :block/updated-at 1665057022005}
  {:block/name "statics",
   :block/created-at 1662788158380,
   :block/updated-at 1662788262776}
+ {:block/name "steel structure",
+  :block/created-at 1677466509250,
+  :block/updated-at 1677468369560}
+ {:block/name "steven j. schuldt",
+  :block/created-at 1667381480286,
+  :block/updated-at 1667381480286}
  {:block/name "structural analysis",
   :block/created-at 1663741813838,
   :block/updated-at 1663742655614}
@@ -543,7 +1408,7 @@
   :block/updated-at 1662788262774}
  {:block/name "struktur dan komposisi tanah",
   :block/created-at 1664306244719,
-  :block/updated-at 1664471859505}
+  :block/updated-at 1666103051981}
  {:block/name "struktur dan komposisi tanah\\",
   :block/created-at 1664317030919,
   :block/updated-at 1664317030919}
@@ -572,6 +1437,12 @@
  {:block/name "thinking about",
   :block/created-at 1663433787067,
   :block/updated-at 1663433787067}
+ {:block/name "third edition: hydrologic data and internet resources",
+  :block/created-at 1666153449550,
+  :block/updated-at 1666153449550}
+ {:block/name "thoughts",
+  :block/created-at 1676532903311,
+  :block/updated-at 1676532903311}
  {:block/name "titik berat",
   :block/created-at 1664178220089,
   :block/updated-at 1664309349332}
@@ -581,6 +1452,9 @@
  {:block/name "torstein throndsen",
   :block/created-at 1665057022046,
   :block/updated-at 1665057022046}
+ {:block/name "traffic crashes",
+  :block/created-at 1670381391461,
+  :block/updated-at 1670381391461}
  {:block/name "transfer learning",
   :block/created-at 1665057021662,
   :block/updated-at 1665057021662}
@@ -590,9 +1464,30 @@
  {:block/name "transportation system",
   :block/created-at 1656855201431,
   :block/updated-at 1656855201431}
+ {:block/name "u.s. standard sieve",
+  :block/created-at 1665638781939,
+  :block/updated-at 1665638781939}
+ {:block/name "unified soil classification system (uscs)",
+  :block/created-at 1665635005147,
+  :block/updated-at 1665635005147}
+ {:block/name "uscs",
+  :block/created-at 1665634997829,
+  :block/updated-at 1665634997829}
+ {:block/name "version control",
+  :block/created-at 1665301263077,
+  :block/updated-at 1665301263077}
+ {:block/name "version history",
+  :block/created-at 1665295290647,
+  :block/updated-at 1665295290647}
+ {:block/name "vertical deformation",
+  :block/created-at 1677603163309,
+  :block/updated-at 1677603163309}
  {:block/name "visualiasi data menggunakan diagram",
   :block/created-at 1665206621357,
   :block/updated-at 1665206621357}
+ {:block/name "visualisasi yang efektif",
+  :block/created-at 1665319497316,
+  :block/updated-at 1665498031088}
  {:block/name "wait",
   :block/created-at 1656772671174,
   :block/updated-at 1656772671174}
@@ -620,12 +1515,36 @@
  {:block/name "what went well?",
   :block/created-at 1663433787087,
   :block/updated-at 1663433787087}
+ {:block/name "world health organization",
+  :block/created-at 1670406592706,
+  :block/updated-at 1670406592706}
+ {:block/name "xiang gao",
+  :block/created-at 1670402987959,
+  :block/updated-at 1670402987959}
+ {:block/name "xiufang chen",
+  :block/created-at 1670405074276,
+  :block/updated-at 1670405074276}
+ {:block/name "yang lv",
+  :block/created-at 1670402987962,
+  :block/updated-at 1670402987962}
+ {:block/name "yaquarri a. adams",
+  :block/created-at 1667381480287,
+  :block/updated-at 1667381480287}
+ {:block/name "yingxue zou",
+  :block/created-at 1670402987963,
+  :block/updated-at 1670402987963}
  {:block/name "yolo network",
   :block/created-at 1665057022005,
   :block/updated-at 1665057022005}
  {:block/name "yongqing jiang",
   :block/created-at 1665057022006,
   :block/updated-at 1665057022006}
+ {:block/name "zhenyu zhang",
+  :block/created-at 1670405074277,
+  :block/updated-at 1670405074277}
+ {:block/name "zotero snapshot with no css - google search",
+  :block/created-at 1665298274858,
+  :block/updated-at 1665298274858}
  {:block/name "🏗 structural and stress analysis: third edition",
   :block/created-at 1662787912518, 
   :block/updated-at 1663731507654}]

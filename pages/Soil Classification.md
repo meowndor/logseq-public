@@ -1,0 +1,26 @@
+- # [[Unified Soil Classification System (USCS)]]
+	- tags:: #USCS
+	- # Scope
+		- The basis for the classification scheme is by A. Casagrande in the early 1940's
+	- # Terminology
+		- ## Clay soil
+			- tags:: #Clay Soil
+				- Passing sieve No.200 (75μm) [[U.S. standard sieve]]
+				- Fine-grained soil or fine-grained portion of a soil
+				- PI ≥ 4 **AND** The plot of plasticity index ($$PI$$ )vs Liquid Limit ($$LL$$) falls **ON OR** the "A" line
+					- {{embed ((63479de8-f891-4791-aa37-20d4fd3c5130))}}
+	- ## Silt soil
+		- tags:: Silt Soil
+		- Passing sieve No.200 (75μm)
+		- Fine-grained soil or the fine-grained protion of a soil with $$PI<4$$ **OR**
+		- If the plot of plasticity index versus liquid limit falls **BELOW** the "A"-line
+			- {{embed ((63479de8-f891-4791-aa37-20d4fd3c5130))}}
+	- ## Gravel
+		- tags:: Gravel
+		- Particle that **PASS** 3-inch (75mm) sieve **AND** be **RETAINED on** a No. 4 (4.75mm) [[U.S. standard sieve]]
+		- with sub-division:
+			- ### Coarse
+				- **PASS** 3-inch (75mm) sieve and **RETAINED** on $$\frac{3}{4}$$-inch (19mm) sieve
+			- ### Fine
+				- **PASS** $$\frac{3}{4}$$-inch (19mm) sieve **AND RETAINED** on No. 4 (4.75mm) sieve
+		-

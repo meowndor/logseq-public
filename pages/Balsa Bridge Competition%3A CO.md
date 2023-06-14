@@ -1,0 +1,25 @@
+title:: Balsa Bridge Competition: CO
+
+- # Intro
+	- #admon-tips Tips
+		- purpose: state the purpose of the proposal, which is to design and build a balsa bridge for a competition
+	- Tujuan dari proposal ini adalah untuk merancang dan membangun jembatan balsa untuk Kompetisi Jembatan Balsa yang akan datang. Tim kami berkomitmen untuk menciptakan jembatan yang kuat, ringan, dan efisien, serta memenuhi aturan dan persyaratan kompetisi. Melalui penelitian dan perencanaan yang cermat, kami bertujuan untuk membangun jembatan yang akan bekerja dengan baik dalam kompetisi dan menunjukkan pemahaman kami tentang prinsip dan teknik teknik.
+	- Proposal akan menguraikan konsep desain kami, bahan dan teknik yang akan kami gunakan, dan pendekatan kami untuk menguji dan mengevaluasi jembatan. Kami juga akan menyertakan anggaran dan jadwal terperinci, serta rencana bagaimana kami akan berkolaborasi dan berkomunikasi sebagai sebuah tim.
+	- Tujuan kami adalah membangun jembatan yang tidak hanya berkinerja baik dalam kompetisi, tetapi juga merupakan bukti kerja tim, kreativitas, dan keahlian teknis kami. Kami percaya bahwa dengan mengikuti Kompetisi Jembatan Balsa, kami dapat memperoleh pengalaman berharga, mengembangkan keterampilan penting, dan bersenang-senang saat melakukannya.
+	- #admon-tips Tips
+		- bg inf: how it works, including the rules, criteria, and judging standards.
+	- Kompetisi _Balsa Bridge_ adalah ajang perlombaan yang cukup bergengsi dan menantang peserta untuk melatih kemampuan prinsip-prinsip rekayasa (dan mengembangkan kemampuan membangun secara langsung dengan tangan (hands-on?)). Kompetisi ini melibatkan konstruksi jembatan yang terbuat dari kayu balsa (hence named balsa bridge) yang kuat dan seringan mungkin, dan dapat menopang beban sebanyak mungkin sebelum akhirnya roboh (_failure/collapse_).
+	- Kompetisi ini biasanya memiliki beberapa ronde pengujian dengan penambahan beban di setiap rondenya hingga mencapai kapasitas maksimumnya (tepat sebelum roboh). Jembatan kemudian dievaluasi berdasarkan beberapa kriteria diantaranya efisiensi berat, efisiensi struktural, dan performa keseluruhan saat diberi beban. Tim dengan jembatan yang dapat menahan beban paling berat dapat dikatakan pemenang.
+	- Ikut serta berpartisipasi dalam ajang perlombaan ini menawarkan peserta kesempatan untuk belajar konsep rekayasa secara praktikal dan dibuat sangat menarik, juga untuk melatih berpikir kritis, kerjasama, dan kemampuan berkomunikasi. Kompetisi ini sangat seru dan menyenangkan karena dapat menantang seseorang dalam pengaplikasian ilmu teori dan kemampuan dalam peyelesaian masalah di dunia nyata (_real-world problem_)
+	- #admon-tips Tips
+		- signficance: why is it important?
+		- the opportunity to apply engineering principles, develop problem-solving skills, and collaborate with peers
+	- Dengan ikut berpartisipasi dalam kompetisi ini, peserta dapat:
+		- ### Pengalaman praktikal
+			- Membuat _balsa bridge_ merupakan kesempatan yang secara langsung menerapkan prinsip rekayasa dan teknik pada dunia nyata. Kesempatan ini membantu peserta memahami pengaplikasian secara praktikal atas apa yang telah dipelajari untuk dikembangkan.
+		- ### Mengasah berpikir kritis dan kemampuan _problem solving_
+			- Merancang dan membangun sebuah jembatan yang dapat berdiri kokoh dengan beban berat membutuhkan kehati-hatian dalam membuat keputusan dengan memperhatikan faktor-faktor lain sebagai konsekuensinya. Dengan begitu, peserta akan terantang untuk berpikir kritis dan kreatif untuk menciptakan solusi pada masalah yang kompleks
+		- ### Menciptakan kerja sama dan kemampuan berkomunikasi
+			- Berkolaborasi dengan teman dan bekerjasama untuk mencapai tujuan jembatan yang dibuat membutuhkan kemampuan komunikasi, kolaborasi, dan koordinasi yang efektif. Kemampuan ini sangat penting di segala aspek dan bidang, dan dengan ikut berpatisipasi dalam kegiatan ini akan membantu mengembangkan kemampuan tersebut.
+		- ### Meningkatkan ilmu dan pemahaman
+			- Dengan ikut berpartisipasi pada kompetisi ini, peserta dapat memahami secara mendalam tentang prinsip rekayasa dan meraih apresiasi yang lebih baik saat berada di lapangan. Dengan begitu, peserta dapat terinspirasi untuk menggeulti karir di bidang rekayasa dan bidang yang bersangkutan.

@@ -1,0 +1,15 @@
+- # Analisis Hitungan
+	-
+- # Pembahasan
+	- ## Definisi
+		- Berat jenis (*specific gravity*) juga bisa diekspresikan sebagai *bulk specific gravity* ($$G_sb$$), *saturated surface dry* ($$G_sb~SSD$$) atau *apparent specific gravity* ($$G_sa$$).
+	- ## Standar Pengujian
+		- Sampel yang digunakan adalah agregat kasar lolos saringan $$37.5mm$$ sebanyak $$5kg$$ sesuai standar minimum sampel pengujian ini yang mengacu pada SNI 1969-2016 untuk acuan SNI, dan ASTM C127 dan AASHTO T85 untuk acuan non-SNI. Untuk perendaman agregat pada pengujian ini yaitu selama $$\pm24$$ jam, mengacu pada standar ASTM C127, berbeda dengan AASHTO T85 yang hanya 15 jam yang kemudian dihilangkan sisa air pada permukaan agregat dengan kain/penyerap lain.
+	- ## Teori
+		- Pengaruh perbedaan nilai bisa disebabkan karena periode saturasi yang dilakukan meskipun tidak signifikan, seperti pada pengujian yang juga dilakukan oleh Program Sampel Kelayakan Laboratorium Referensi Bahan AASHTO, bahwa periode saturasi yang ditetapkan ASTM C127 selama 24 jam menghasilkan nilai yang berbeda dengan periode saturasi yang ditetapkan oleh AASHTO, yaitu 15 jam.
+- # Kesimpulan
+	- Berdasarkan hasil pengujian berat jenis dan penyerapan air agregat halus, maka diperoleh data-data sbb.:
+		- Berat jenis curah (*bulk spesific gravity*)
+			- Pengujian 1 =
+			- Pengujian 2 =
+		-

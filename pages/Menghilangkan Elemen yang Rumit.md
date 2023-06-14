@@ -1,0 +1,3 @@
+- # Cognitive Load (Beban Kognitif)
+- # Kerumitan (Clutter)
+	-

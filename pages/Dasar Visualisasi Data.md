@@ -6,7 +6,7 @@ sources:: https://dicoding.com
 	- Hal yang perlu diperhatikan dalam penulisan tabel:
 		- Penulisan judul
 		- ### Simpel
-			- KISS (Keep It Simple Stupid). Jangan terlalu berlebihan dalam mendesain sebuah tabel agar orang membaca tidak terdistraksi.
+			- [[KISS (Keep It Simple Stupid)]]. Jangan terlalu berlebihan dalam mendesain sebuah tabel agar orang membaca tidak terdistraksi.
 		- ### Penjelasan simbol
 			- Apabila terdapat catatan pada salah satu nilai dalam tabel, beri simbol *superscript* (e.g.: * † ‡) dan beri penjelasan simbol pada catatan kaki tabel.
 		- ### Penekanan

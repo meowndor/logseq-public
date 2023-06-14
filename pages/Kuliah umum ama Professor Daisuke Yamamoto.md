@@ -1,0 +1,62 @@
+- Term:
+	- Corrective maintenance
+	- preventive maintenance
+	- LCC
+- # Factor that cause structure to deteriote
+	- ## Breeding that occurs in concrete
+		- W/C large
+		- unit weight of water large
+		- ### Initial defects due to breeding
+			- sinking and cracking
+			- ![image.png](../assets/image_1672208615013_0.png)
+			- ![image.png](../assets/image_1672208640193_0.png)
+			- ![image.png](../assets/image_1672208726477_0.png)
+			- ### Degradation over time
+				- ![image.png](../assets/image_1672208870583_0.png)
+	- ## Carbonation
+		- ### Def
+			- ![image.png](../assets/image_1672208954280_0.png)
+		- ### Test method
+			- ![image.png](../assets/image_1672208976067_0.png)
+		- ### Example
+			- ![image.png](../assets/image_1672209023832_0.png)
+			-
+		- ### Mechanism
+		  collapsed:: true
+			-
+			- ![image.png](../assets/image_1672209044129_0.png)
+		- ## Salt damage
+			- ![image.png](../assets/image_1672209090869_0.png)
+			- ![image.png](../assets/image_1672209229823_0.png)
+		- ## ASR
+		- ## Fatigue fracture
+			- ![image.png](../assets/image_1672209582788_0.png)
+- # A good conrete
+	- ![image.png](../assets/image_1672209757662_0.png)
+	- ![image.png](../assets/image_1672209812446_0.png)
+	- ![image.png](../assets/image_1672209903166_0.png)
+	- ![image.png](../assets/image_1672209941331_0.png)
+	- ![image.png](../assets/image_1672210041243_0.png)
+	- ![image.png](../assets/image_1672210150324_0.png)
+	- ![image.png](../assets/image_1672210211835_0.png)
+	- ![image.png](../assets/image_1672210360876_0.png)
+	- ![image.png](../assets/image_1672210372578_0.png)
+	- ![image.png](../assets/image_1672210661706_0.png)
+	- ![image.png](../assets/image_1672210940926_0.png)
+	- ![image.png](../assets/image_1672211022581_0.png)
+	- ![image.png](../assets/image_1672211032384_0.png)
+	- ![image.png](../assets/image_1672211079441_0.png)
+	- # Sum
+		- Kerusakan oleh ASR (alkali-silika)
+		- ... fracture
+			- beban yang terus menerus
+		- ## Tips to make good cocnrete
+			- proper media
+			- proper mix design
+			- proper material
+			- sesuai standar
+			- proper construction
+				- pada saat konstruksi dilaksanakan dengna baik
+		- ## Environment
+			-
+			-

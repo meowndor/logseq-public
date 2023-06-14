@@ -3,7 +3,7 @@
 :END:
 
 - # Pendahuluan
-	- ![2.1](../assets/image_1664300534906_0.png)
+	- ![2.1](../assets/image_1664300534906_0.png){:height 335, :width 676}
 	  id:: 633329bd-915b-4f15-8301-dff4c6f686d4
 		- $W$ =  *weight*
 		- $W_w$ = *weight of water*
@@ -28,7 +28,6 @@
 	- ((6333b903-60ae-4c16-a788-12205939d948))
 	- $$\begin{equation}W = W_s + W_w\end{equation}$$
 	- Hubungan volume digunakan untuk mengukur perbandingan antara:
-	  collapsed:: true
 		- ### [[Angka Pori]]
 		- ### [[Porositas]]
 		- ### [[Derajat Kejenuhan]]

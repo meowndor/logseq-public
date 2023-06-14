@@ -1,3 +1,6 @@
+tags:: #Machine Learning #Data Analysis #[[Dasar Visualisasi Data]] 
+ref:: [Viz.wtf](https://viz.wtf)
+
 - # Nilai Presentase Tidak Sesuai
 	- Tidak berjumlah 100%
 	- Terlalu banyak irisan yang berujung bias. Hal ini dapat diatasi dengan menambahkan kategori "lainnya" yang mencakup semua irisan-irisan kecil.
